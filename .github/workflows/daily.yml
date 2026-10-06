@@ -1,35 +1,34 @@
 name: Daily job scrape
 
 on:
-  schedule:
-    - cron: "30 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.10'
+
       - name: Install JobSpy
-        run: pip install python-jobspy
-        continue-on-error: true
+        run: pip install -U python-jobspy
+
       - name: Fetch placement updates
         run: python fetch_updates.py
         continue-on-error: true
+
       - name: Run scraper
-        env:
-          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
-          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
-          USE_JOBSPY: "1"
         run: python scraper.py
-                  - name: Save results
+
+      - name: Save results
         run: |
           git config user.name "jobs-bot"
           git config user.email "bot@example.com"
@@ -37,4 +36,3 @@ jobs:
           git commit -m "Daily update" || exit 0
           git pull --rebase origin main
           git push
-
