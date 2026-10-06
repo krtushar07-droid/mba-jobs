@@ -103,6 +103,7 @@ const $ = id => document.getElementById(id);
 let jobsData = [], noticesData = [], newsData = [], currentTab = 'jobs';
 const failed = {};
 let visibleJobs = [];
+let limit = 30, total = 0;
 
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl = u => /^https?:\/\//i.test(u || '') ? u : '';
@@ -147,6 +148,7 @@ function setTab(tab) {
   $('dashboardMenu').style.display = tab === 'dashboard' ? 'block' : 'none';
   $('listContainer').style.display = tab === 'dashboard' ? 'none' : 'block';
   $('search').placeholder = { jobs:'Search jobs...', notices:'Search campus emails...', news:'Search business news...' }[tab] || '';
+  limit = 30;
   window.scrollTo(0, 0);
   render();
 }
@@ -174,7 +176,8 @@ function render() {
     stats.textContent = `${visibleJobs.length} active openings`;
     if (failed.jobs) html = emptyMsg('Could not load jobs.json. Check that the file exists in the repo.', true);
     else if (!visibleJobs.length) html = emptyMsg('No jobs match your search.');
-    visibleJobs.slice(0, 50).forEach((j, i) => {
+    total = visibleJobs.length;
+    visibleJobs.slice(0, limit).forEach((j, i) => {
       const url = safeUrl(j.url);
       html += `<div class="card">
         <h2 class="job-title">${esc(j.title)}</h2>
@@ -189,7 +192,8 @@ function render() {
     stats.textContent = `${f.length} campus notices`;
     if (failed.notices) html = emptyMsg('Could not load updates.json. Run the GitHub workflow and check that the file is in the repo root.', true);
     else if (!f.length) html = emptyMsg('No notices found.');
-    f.slice(0, 50).forEach(n => {
+    total = f.length;
+    f.slice(0, limit).forEach(n => {
       const long = n.body.length > 350;
       html += `<div class="card">
         <h2 class="job-title">${esc(n.title)}</h2>
@@ -210,6 +214,8 @@ function render() {
         ${url ? `<div class="card-actions"><a href="${esc(url)}" target="_blank" rel="noopener" class="btn btn-secondary">Read article</a></div>` : ''}</div>`;
     });
   }
+  if ((currentTab === 'jobs' || currentTab === 'notices') && total > limit)
+    html += `<button class="btn btn-secondary" style="width:100%;margin-bottom:16px" data-more="1">Show more (${total - limit} left)</button>`;
   c.innerHTML = html;
 }
 
@@ -224,6 +230,7 @@ document.addEventListener('click', e => {
     window.open('https://api.whatsapp.com/send?text=' + encodeURIComponent(text), '_blank');
     return;
   }
+  if (e.target.closest('[data-more]')) { limit += 30; return render(); }
   const more = e.target.closest('.more');
   if (more) {
     const body = more.previousElementSibling, open = body.classList.toggle('clamp');
@@ -231,7 +238,7 @@ document.addEventListener('click', e => {
   }
 });
 
-['search', 'filterSector', 'filterCompany'].forEach(id => $(id).addEventListener('input', render));
+['search', 'filterSector', 'filterCompany'].forEach(id => $(id).addEventListener('input', () => { limit = 30; render(); }));
 
 let deferredPrompt;
 window.addEventListener('beforeinstallprompt', e => {
