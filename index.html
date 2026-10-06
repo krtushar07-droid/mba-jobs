@@ -84,7 +84,7 @@ nav button.on{color:var(--ink)}nav button.on svg{stroke-width:2.4}
   <div class="brand"><div class="mark"><svg viewBox="0 0 24 24"><circle cx="6" cy="19" r="2.5"/><path d="M6 16.5V9a3 3 0 1 1 3 3h6a3 3 0 1 1 0 6h-3"/></svg></div>Placement Hub</div>
   <button class="hbtn" data-go="jobs" data-focus="1" aria-label="Search jobs"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
   <button class="hbtn" id="bell" data-pop="bell" aria-label="Notifications"><svg viewBox="0 0 24 24"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg></button>
-  <button class="avatar" id="av" data-pop="me" aria-label="Profile">TM</button>
+  <button class="avatar" id="av" data-pop="me" aria-label="Profile"></button>
 </header>
 <div id="pop"></div>
 <main id="app"></main>
@@ -101,12 +101,13 @@ const ic={
  news:svg('<path d="M4 4h13v16H6a2 2 0 0 1-2-2z"/><path d="M17 8h3v10a2 2 0 0 1-2 2"/><path d="M8 8h5M8 12h5M8 16h5"/>'),
  saved:svg('<path d="M6 3h12v18l-6-4-6 4z"/>'),
  share:svg('<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="m8.6 13.5 6.8 4M15.4 6.5l-6.8 4"/>'),
+ user:svg('<circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/>'),
  x:svg('<path d="M18 6 6 18M6 6l12 12"/>')
 };
 const TABS=[['home','Home'],['jobs','Jobs'],['updates','Updates'],['news','News'],['saved','Saved']];
 const load=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){return d}};
 const save=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
-const USER=Object.assign({name:'Tushar Mehta'},load('ph_user',{}));
+const USER=Object.assign({name:''},load('ph_user',{}));
 const initials=n=>n.trim().split(/\s+/).map(w=>w[0]).slice(0,2).join('').toUpperCase()||'?';
 const S={tab:'home',jobs:[],notices:[],news:[],failed:{},ready:false,q:'',sector:'',company:'',cat:'All',limit:30,open:{},updated:'',saved:load('ph_saved',[]),hideInstall:false};
 let dp=null;
@@ -161,7 +162,7 @@ function vHome(){
  const nw=S.jobs.filter(j=>j.new).length,rec=S.notices.filter(x=>Date.now()-new Date(x.sent)<3*864e5).length,cos=new Set(S.jobs.map(j=>j.company)).size;
  const h=new Date().getHours(),g=h<12?'Good morning':h<17?'Good afternoon':'Good evening',n=S.notices[0];
  const stat=(l,v,b,go)=>`<button class="stat" data-go="${go}"><small>${l}</small><div><b>${v}</b><span class="tag">${b}</span></div></button>`;
- return `<div class="eyebrow">Your placement desk</div><h1>${g}, ${esc(USER.name.split(' ')[0])}</h1><p class="sub">Everything you need for placements, in one place.</p>
+ return `<div class="eyebrow">Your placement desk</div><h1>${g}${USER.name?', '+esc(USER.name.split(' ')[0]):''}</h1><p class="sub">Everything you need for placements, in one place.</p>${USER.name?'':'<button class="link" data-pop="me">Add your name</button>'}
  ${S.updated?`<span class="pill"><i></i>Updated ${fmt(S.updated)}</span>`:''}
  <div class="grid">${stat('New jobs',nw,'+'+nw+' today','jobs')}${stat('Campus updates',S.notices.length,rec+' recent','updates')}${stat('Companies',cos,'hiring','jobs')}${stat('Saved jobs',S.saved.length,'view','saved')}</div>
  ${n?`<div class="card"><div class="row"><h3 class="grow">Latest from campus</h3>${tagHtml(n)}</div><p class="meta" style="margin-top:10px"><b style="color:var(--ink)">${esc(n.title)}</b></p><p class="sum clamp">${esc(strip(n.body))}</p><button class="link" data-go="updates">Read notice →</button></div>`:''}
@@ -209,7 +210,7 @@ function vSaved(){
 
 function render(){
  const a=document.activeElement,id=a&&a.id,pos=a&&a.selectionStart;
- $('av').textContent=initials(USER.name);
+ $('av').innerHTML=USER.name?esc(initials(USER.name)):ic.user;
  $('nav').innerHTML=TABS.map(([k,l])=>`<button class="${k===S.tab?'on':''}" data-go="${k}">${ic[k]}${l}</button>`).join('');
  $('app').innerHTML=!S.ready?empty('Loading…'):({home:vHome,jobs:vJobs,updates:vUpdates,news:vNews,saved:vSaved})[S.tab]();
  if(id&&$(id)){$(id).focus();try{$(id).setSelectionRange(pos,pos)}catch(e){}}
