@@ -26,6 +26,10 @@ jobs:
       - name: Fetch placement updates
         run: python fetch_updates.py
         continue-on-error: true
+      - name: Fetch business news
+        run: python fetch_news.py
+        continue-on-error: true
+
 
       - name: Run scraper
         run: python scraper.py
