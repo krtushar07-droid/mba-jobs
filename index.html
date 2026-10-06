@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Placeo</title>
 <link rel="manifest" href="manifest.json">
-<link rel="icon" href="icons/icon-192.png">
+<link rel="icon" href="icon-192.png">
 <meta name="theme-color" content="#F2F4F8" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0E1428" media="(prefers-color-scheme: dark)">
-<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Poppins:wght@800&display=swap" rel="stylesheet">
 <style>
@@ -220,10 +220,15 @@ function render(){
 function go(t,focus){S.tab=t;S.limit=30;closePop();window.scrollTo(0,0);render();if(focus&&$('q'))$('q').focus()}
 
 function closePop(){$('pop').classList.remove('show');$('pop').dataset.k=''}
+function installBlock(){
+ if(matchMedia('(display-mode: standalone)').matches||navigator.standalone)return '';
+ return dp?'<button class="btn sec" data-install="1" style="margin-top:10px">Install app</button>'
+  :'<p class="meta" style="margin-top:14px">To install: in Chrome tap ⋮, then Install app. On iPhone, tap Share, then Add to Home Screen.</p>';
+}
 function togglePop(k){
  const p=$('pop');if(p.dataset.k===k)return closePop();
  const n=S.notices[0];
- p.innerHTML=k==='bell'?(n?`<div class="row"><h3 class="grow">Notifications</h3>${tagHtml(n)}</div><p style="margin:10px 0">${esc(n.title)}</p><button class="link" data-go="updates">View campus updates →</button>`:`<h3>Notifications</h3><p class="sub" style="margin-top:8px">You're all caught up.</p>`):`<h3>Your profile</h3><label class="field" style="margin:12px 0"><input id="nm" value="${esc(USER.name)}" maxlength="40" placeholder="Your name" autocomplete="name"></label><button class="btn pri" data-savename="1">Save name</button>`;
+ p.innerHTML=k==='bell'?(n?`<div class="row"><h3 class="grow">Notifications</h3>${tagHtml(n)}</div><p style="margin:10px 0">${esc(n.title)}</p><button class="link" data-go="updates">View campus updates →</button>`:`<h3>Notifications</h3><p class="sub" style="margin-top:8px">You're all caught up.</p>`):`<h3>Your profile</h3><label class="field" style="margin:12px 0"><input id="nm" value="${esc(USER.name)}" maxlength="40" placeholder="Your name" autocomplete="name"></label><button class="btn pri" data-savename="1">Save name</button>${installBlock()}`;
  p.dataset.k=k;p.classList.add('show');
 }
 
@@ -251,7 +256,7 @@ document.addEventListener('click',e=>{
  if(d.cat){S.cat=d.cat;return render()}
  if(d.more){S.limit+=30;return render()}
  if(d.close)return closeSheet();
- if(d.install&&dp){dp.prompt();dp=null;return render()}
+ if(d.install&&dp){closePop();dp.prompt();dp=null;return render()}
  if(d.hide){S.hideInstall=true;return render()}
  if(d.savename){const v=$('nm').value.trim();if(v){USER.name=v;save('ph_user',{name:v});closePop();render()}return}
 });
