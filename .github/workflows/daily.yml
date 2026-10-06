@@ -26,13 +26,12 @@ jobs:
       - name: Fetch placement updates
         run: python fetch_updates.py
         continue-on-error: true
-      - name: Fetch business news
-        run: python fetch_news.py
-        continue-on-error: true
-
 
       - name: Run scraper
         run: python scraper.py
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
 
       - name: Save results
         run: |
@@ -41,4 +40,5 @@ jobs:
           git add *.json
           git commit -m "Daily update" || exit 0
           git pull --rebase origin main
+
           git push
