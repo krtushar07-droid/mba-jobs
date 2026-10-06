@@ -1,1 +1,476 @@
-<h1>MBA Jobs</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<title>MBA Jobs & Placement Hub</title>
+
+<!-- PWA & Mobile Meta Tags -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1E40AF">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="MBA Jobs">
+<link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
+
+<style>
+:root {
+  --bg: #F8FAFC;
+  --surface: #FFFFFF;
+  --surface-subtle: #F1F5F9;
+  --border: #E2E8F0;
+  --text: #0F172A;
+  --text-muted: #64748B;
+  --primary: #1E40AF;
+  --primary-light: #EFF6FF;
+  --success: #059669;
+  --success-bg: #ECFDF5;
+  --warning: #D97706;
+  --warning-bg: #FFFBEB;
+  --safe-bottom: env(safe-area-inset-bottom, 16px);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0B0F17;
+    --surface: #151D2A;
+    --surface-subtle: #1E293B;
+    --border: #243144;
+    --text: #F8FAFC;
+    --text-muted: #94A3B8;
+    --primary: #3B82F6;
+    --primary-light: rgba(59, 130, 246, 0.12);
+    --success: #10B981;
+    --success-bg: rgba(16, 185, 129, 0.12);
+    --warning: #F59E0B;
+    --warning-bg: rgba(245, 158, 11, 0.12);
+  }
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  overscroll-behavior-y: contain;
+  padding-bottom: calc(74px + var(--safe-bottom));
+}
+
+/* App Header */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 18px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.brand-group h1 {
+  font-size: 19px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.3px;
+}
+.brand-group p {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin: 2px 0 0;
+}
+.install-btn {
+  display: none;
+  background: var(--primary);
+  color: #fff;
+  border: 0;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Filter Section */
+.controls-container {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 12px 16px 4px;
+}
+.search-box {
+  width: 100%;
+  padding: 13px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 15px;
+  outline: none;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+}
+.search-box:focus {
+  border-color: var(--primary);
+}
+.filter-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+.filter-row select {
+  flex: 1;
+  min-width: 0;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 14px;
+  outline: none;
+}
+.toggle-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+/* Content Area */
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+.count-bar {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  margin: 12px 0 6px;
+}
+
+/* Card Styles */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+  margin-top: 12px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+  transition: transform 0.1s ease;
+}
+.card:active {
+  transform: scale(0.99);
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+}
+.card-title {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0;
+}
+.badge {
+  font-size: 10.5px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 6px;
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+}
+.badge-new {
+  background: var(--success-bg);
+  color: var(--success);
+}
+.badge-notice {
+  background: var(--warning-bg);
+  color: var(--warning);
+}
+.card-meta {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin: 6px 0 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+}
+.card-body {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.apply-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 18px;
+  border-radius: 10px;
+  background: var(--primary);
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 13.5px;
+  font-weight: 600;
+  margin-top: 4px;
+}
+.btn-more {
+  display: block;
+  width: 100%;
+  padding: 14px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 600;
+  margin: 16px 0 30px;
+  cursor: pointer;
+}
+.empty-state {
+  text-align: center;
+  padding: 40px 16px;
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+/* Bottom Navigation Bar */
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: calc(60px + var(--safe-bottom));
+  padding-bottom: var(--safe-bottom);
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 1000;
+}
+.nav-tab {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: 0;
+  color: var(--text-muted);
+  font-size: 11px;
+  font-weight: 600;
+  gap: 4px;
+  cursor: pointer;
+}
+.nav-tab svg {
+  width: 22px;
+  height: 22px;
+  stroke: currentColor;
+  stroke-width: 2;
+  fill: none;
+}
+.nav-tab.active {
+  color: var(--primary);
+}
+</style>
+</head>
+<body>
+
+<header class="app-header">
+  <div class="brand-group">
+    <h1>MBA Career Hub</h1>
+    <p id="lastSync">Syncing live database...</p>
+  </div>
+  <button id="pwaInstallBtn" class="install-btn" type="button">Install App</button>
+</header>
+
+<div class="controls-container">
+  <input type="text" id="searchInput" class="search-box" placeholder="Search roles, firms, keywords..." aria-label="Search">
+  <div class="filter-row" id="jobFilterRow">
+    <select id="sectorSelect" aria-label="Sector"><option value="">All Sectors</option></select>
+    <select id="companySelect" aria-label="Company"><option value="">All Companies</option></select>
+  </div>
+  <label class="toggle-row" id="newOnlyWrapper">
+    <input type="checkbox" id="newOnlyCheck"> Filter newly added today
+  </label>
+</div>
+
+<main>
+  <div class="count-bar" id="itemCount">Loading listings...</div>
+  <div id="contentList"></div>
+</main>
+
+<nav class="bottom-nav">
+  <button type="button" class="nav-tab active" id="tabJobs" onclick="switchTab('jobs')">
+    <svg viewBox="0 0 24 24"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+    <span>Job Openings</span>
+  </button>
+  <button type="button" class="nav-tab" id="tabNotices" onclick="switchTab('notices')">
+    <svg viewBox="0 0 24 24"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+    <span>Notices</span>
+  </button>
+</nav>
+
+<script>
+const $ = id => document.getElementById(id);
+let ALL_JOBS = [], ALL_NOTICES = [], currentTab = 'jobs', renderLimit = 40;
+
+function populateDropdown(el, values) {
+  [...new Set(values)].filter(Boolean).sort().forEach(val => {
+    const opt = document.createElement('option');
+    opt.value = val;
+    opt.textContent = val;
+    el.appendChild(opt);
+  });
+}
+
+function switchTab(tab) {
+  currentTab = tab;
+  renderLimit = 40;
+  $('tabJobs').classList.toggle('active', tab === 'jobs');
+  $('tabNotices').classList.toggle('active', tab === 'notices');$('jobFilterRow').style.display = tab === 'jobs' ? 'flex' : 'none';
+  $('newOnlyWrapper').style.display = tab === 'jobs' ? 'flex' : 'none';$('searchInput').placeholder = tab === 'jobs' ? 'Search roles, firms, keywords...' : 'Search campus placement notices...';
+  render();
+}
+
+Promise.allSettled([
+  fetch('jobs.json?v=' + Date.now()).then(r => r.json()),
+  fetch('updates.json?v=' + Date.now()).then(r => r.json())
+]).then(([jobsRes, noticesRes]) => {
+  if (jobsRes.status === 'fulfilled') {
+    ALL_JOBS = jobsRes.value.jobs || [];
+    if (jobsRes.value.updated) $('lastSync').textContent = 'Updated ' + jobsRes.value.updated;
+    populateDropdown($('sectorSelect'), ALL_JOBS.map(j => j.sector));
+    populateDropdown($('companySelect'), ALL_JOBS.map(j => j.company));
+  }
+  if (noticesRes.status === 'fulfilled') {
+    ALL_NOTICES = noticesRes.value.items || [];
+  }
+  render();
+}).catch(() => {
+  $('itemCount').textContent = 'Unable to fetch records. Pull to refresh.';
+});
+
+function render() {
+  const query = $('searchInput').value.trim().toLowerCase();
+  const listContainer = $('contentList');
+  listContainer.innerHTML = '';
+
+  if (currentTab === 'jobs') {
+    const sector = $('sectorSelect').value;
+    const company = $('companySelect').value;
+    const newOnly = $('newOnlyCheck').checked;
+
+    const filtered = ALL_JOBS.filter(job => 
+      (!sector || job.sector === sector) &&
+      (!company || job.company === company) &&
+      (!newOnly || job.new) &&
+      (!query || (job.title + ' ' + job.company + ' ' + (job.location || '')).toLowerCase().includes(query))
+    );
+
+    $('itemCount').textContent = `${filtered.length} ${filtered.length === 1 ? 'Opportunity' : 'Opportunities'}`;
+
+    if (!filtered.length) {
+      listContainer.innerHTML = '<div class="empty-state">No matching opportunities found.</div>';
+      return;
+    }
+
+    filtered.slice(0, renderLimit).forEach(job => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="card-header">
+          <h2 class="card-title">${job.title}</h2>
+          ${job.new ? '<span class="badge badge-new">NEW</span>' : ''}
+        </div>
+        <div class="card-meta">
+          <span>🏢 ${job.company}</span>
+          ${job.location ? `<span>📍 ${job.location}</span>` : ''}
+        </div>
+        ${/^https?:\/\//.test(job.url) ? `<a href="${job.url}" target="_blank" rel="noopener noreferrer" class="apply-btn">Apply Role →</a>` : ''}
+      `;
+      listContainer.appendChild(card);
+    });
+
+    if (filtered.length > renderLimit) {
+      const moreBtn = document.createElement('button');
+      moreBtn.className = 'btn-more';
+      moreBtn.textContent = 'Load More Jobs';
+      moreBtn.onclick = () => { renderLimit += 40; render(); };
+      listContainer.appendChild(moreBtn);
+    }
+  } else {
+    const filtered = ALL_NOTICES.filter(notice => 
+      !query || (notice.title + ' ' + notice.body).toLowerCase().includes(query)
+    );
+
+    $('itemCount').textContent = `${filtered.length} ${filtered.length === 1 ? 'Notice' : 'Notices'}`;
+
+    if (!filtered.length) {
+      listContainer.innerHTML = '<div class="empty-state">No campus notices found.</div>';
+      return;
+    }
+
+    filtered.slice(0, renderLimit).forEach(notice => {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+        <div class="card-header">
+          <h2 class="card-title">${notice.title || 'Official Placement Update'}</h2>
+          <span class="badge badge-notice">CAMPUS</span>
+        </div>
+        ${notice.sent ? `<div class="card-meta"><span>📅 ${notice.sent}</span></div>` : '<div style="margin-bottom:8px"></div>'}
+        <div class="card-body">${notice.body}</div>
+      `;
+      listContainer.appendChild(card);
+    });
+
+    if (filtered.length > renderLimit) {
+      const moreBtn = document.createElement('button');
+      moreBtn.className = 'btn-more';
+      moreBtn.textContent = 'Load Older Notices';
+      moreBtn.onclick = () => { renderLimit += 40; render(); };
+      listContainer.appendChild(moreBtn);
+    }
+  }
+}
+
+['searchInput', 'sectorSelect', 'companySelect', 'newOnlyCheck'].forEach(id => {
+  const el = $(id);
+  if (el) el.addEventListener('input', () => { renderLimit = 40; render(); });
+});
+
+/* Service Worker Registration */
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}
+
+/* Install App Prompt Capture */
+let deferredPrompt;
+const installBtn = $('pwaInstallBtn');
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installBtn.style.display = 'block';
+});
+
+installBtn.addEventListener('click', async () => {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt();
+  const { outcome } = await deferredPrompt.userChoice;
+  if (outcome === 'accepted') {
+    installBtn.style.display = 'none';
+  }
+  deferredPrompt = null;
+});
+</script>
+</body>
+</html>
