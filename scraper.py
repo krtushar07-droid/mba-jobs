@@ -87,6 +87,8 @@ def adzuna(c):
         "results_per_page": 50, "what": c["name"], "max_days_old": 30,
         "sort_by": "date", "content-type": "application/json"})
     d = get(f"https://api.adzuna.com/v1/api/jobs/in/search/1?{q}")
+    if d is None:
+        errors.append("adzuna failed: " + c["name"])
     out = []
     for r in (d or {}).get("results", []):
         comp = (r.get("company") or {}).get("display_name", "")
@@ -144,13 +146,16 @@ def add(j, c, src):
     j["new"] = j["first_seen"] == today
     jobs.append(j); by_src[src] += 1
 
+if not USE_ADZUNA:
+    errors.append("Adzuna keys not found, Adzuna skipped")
+
 for c in companies:
     res = ats(c)
     if res:
         for j in res: add(j, c, "company")
     elif USE_ADZUNA:
         for j in adzuna(c): add(j, c, "adzuna")
-        time.sleep(0.4)
+        time.sleep(3)
 
 if USE_JOBSPY:
     for r in jobspy_all():
