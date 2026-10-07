@@ -1,106 +1,7 @@
 {
- "updated": "2026-10-06",
- "count": 736,
+ "updated": "2026-10-07",
+ "count": 659,
  "jobs": [
-  {
-   "id": "adz5914017718",
-   "title": "Contract Associate Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914017718?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914016920",
-   "title": "Record to Report Ops New Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914016920?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914009390",
-   "title": "Delivery Operations Specialist",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914009390?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914006733",
-   "title": "Procurement Operations Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914006733?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914006653",
-   "title": "Program/Project Management Lead",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914006653?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914004109",
-   "title": "Health Admin Services New Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914004109?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914000631",
-   "title": "Delivery Operations Associate Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914000631?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913998419",
-   "title": "Procure to Pay Operations Specialist",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913998419?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913997742",
-   "title": "Order to Cash Operations Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913997742?utm_medium=api&utm_source=09801bc5",
-   "company": "Accenture",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
   {
    "id": "adz5900529993",
    "title": "Area Sales Head - SME EM - Chandigarh",
@@ -110,7 +11,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900529766",
@@ -121,7 +22,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900529757",
@@ -132,7 +33,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899925009",
@@ -143,7 +44,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913942697",
@@ -154,7 +55,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914017664",
@@ -165,7 +66,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914016975",
@@ -176,7 +77,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914015887",
@@ -187,7 +88,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914010571",
@@ -198,7 +99,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914008976",
@@ -209,7 +110,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914008912",
@@ -220,7 +121,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914005873",
@@ -231,7 +132,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914004695",
@@ -242,7 +143,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914002877",
@@ -253,7 +154,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913986018",
@@ -264,7 +165,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913967067",
@@ -275,7 +176,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910244053",
@@ -286,7 +187,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910241491",
@@ -297,7 +198,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910238318",
@@ -308,7 +209,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910236907",
@@ -319,7 +220,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910233748",
@@ -330,7 +231,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910232838",
@@ -341,7 +242,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910231937",
@@ -352,7 +253,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910225424",
@@ -363,7 +264,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549498",
@@ -374,7 +275,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549491",
@@ -385,7 +286,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549460",
@@ -396,7 +297,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908332576",
@@ -407,7 +308,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469632",
@@ -418,7 +319,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469656",
@@ -429,7 +330,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469659",
@@ -440,7 +341,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469660",
@@ -451,7 +352,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469650",
@@ -462,7 +363,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469658",
@@ -473,7 +374,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469654",
@@ -484,7 +385,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469651",
@@ -495,7 +396,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469665",
@@ -506,7 +407,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469662",
@@ -517,7 +418,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469657",
@@ -528,7 +429,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469652",
@@ -539,7 +440,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905919157",
@@ -550,7 +451,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889572049",
@@ -561,7 +462,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889568339",
@@ -572,7 +473,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889508777",
@@ -583,7 +484,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377459",
@@ -594,7 +495,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377435",
@@ -605,7 +506,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905434270",
@@ -616,7 +517,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5903790325",
@@ -627,7 +528,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900808822",
@@ -638,7 +539,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900529863",
@@ -649,7 +550,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386367",
@@ -660,7 +561,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912689866",
@@ -671,7 +572,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912689148",
@@ -682,7 +583,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912686653",
@@ -693,7 +594,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912686581",
@@ -704,7 +605,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912684607",
@@ -715,7 +616,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912684529",
@@ -726,7 +627,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912671505",
@@ -737,7 +638,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912670701",
@@ -748,7 +649,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912670532",
@@ -759,7 +660,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912654297",
@@ -770,7 +671,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912637136",
@@ -781,7 +682,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912636270",
@@ -792,7 +693,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912628622",
@@ -803,7 +704,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912624997",
@@ -814,7 +715,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912624840",
@@ -825,7 +726,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912623176",
@@ -836,7 +737,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911685225",
@@ -847,7 +748,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911685211",
@@ -858,7 +759,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911681695",
@@ -869,7 +770,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911679290",
@@ -880,7 +781,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911659490",
@@ -891,7 +792,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910253660",
@@ -902,7 +803,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910223309",
@@ -913,7 +814,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910195210",
@@ -924,7 +825,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908408446",
@@ -935,7 +836,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908385454",
@@ -946,7 +847,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908365398",
@@ -957,7 +858,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908300036",
@@ -968,7 +869,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905911915",
@@ -979,7 +880,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905903742",
@@ -990,7 +891,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905894787",
@@ -1001,7 +902,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905888054",
@@ -1012,7 +913,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905886113",
@@ -1023,7 +924,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910253585",
@@ -1034,7 +935,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910249872",
@@ -1045,7 +946,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908404769",
@@ -1056,7 +957,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908397158",
@@ -1067,7 +968,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908374194",
@@ -1078,7 +979,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908353629",
@@ -1089,7 +990,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908308528",
@@ -1100,7 +1001,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905918323",
@@ -1111,7 +1012,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905899212",
@@ -1122,7 +1023,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904051729",
@@ -1133,7 +1034,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904050640",
@@ -1144,7 +1045,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904047081",
@@ -1155,7 +1056,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904046562",
@@ -1166,7 +1067,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904043459",
@@ -1177,7 +1078,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904040528",
@@ -1188,7 +1089,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904038527",
@@ -1199,7 +1100,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5875734865",
@@ -1210,7 +1111,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914293920",
@@ -1221,7 +1122,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914293561",
@@ -1232,7 +1133,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975439",
@@ -1243,18 +1144,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5912975335",
-   "title": "Global Presales \u2013 Cybersecurity Solution Architect",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5912975335?utm_medium=api&utm_source=09801bc5",
-   "company": "Bosch",
-   "sector": "Auto & Industrial",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975298",
@@ -1265,7 +1155,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975288",
@@ -1276,7 +1166,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975323",
@@ -1287,7 +1177,18 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
+  },
+  {
+   "id": "adz5912975335",
+   "title": "Global Presales \u2013 Cybersecurity Solution Architect",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5912975335?utm_medium=api&utm_source=09801bc5",
+   "company": "Bosch",
+   "sector": "Auto & Industrial",
+   "src": "adzuna",
+   "first_seen": "2026-10-06",
+   "new": false
   },
   {
    "id": "adz5912975324",
@@ -1298,7 +1199,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975268",
@@ -1309,7 +1210,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975125",
@@ -1320,7 +1221,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910314198",
@@ -1331,7 +1232,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5892689812",
@@ -1342,7 +1243,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvcredaa98a938-af3a-45f5-851d-966b2b5bad33",
@@ -1353,7 +1254,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvcred09022710-e79a-4cf0-8060-df0e1cd64263",
@@ -1364,7 +1265,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvcredb532b595-bc8d-4b51-a2e6-7228ef1cabfc",
@@ -1375,7 +1276,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvcreda65bef0e-0f4c-40af-b662-9313f255189e",
@@ -1386,7 +1287,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvcredb3fdba2a-802c-4e03-b445-5284c5e3c157",
@@ -1397,7 +1298,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848879",
@@ -1408,7 +1309,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5901252941",
@@ -1419,7 +1320,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5901252942",
@@ -1430,7 +1331,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900355033",
@@ -1441,7 +1342,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899862093",
@@ -1452,7 +1353,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5897680832",
@@ -1463,7 +1364,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913207445",
@@ -1474,7 +1375,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913207415",
@@ -1485,7 +1386,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5903289851",
@@ -1496,7 +1397,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5903289844",
@@ -1507,7 +1408,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902278323",
@@ -1518,7 +1419,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899023420",
@@ -1529,7 +1430,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5897721578",
@@ -1540,7 +1441,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5897721483",
@@ -1551,7 +1452,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5896368619",
@@ -1562,7 +1463,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5896060375",
@@ -1573,7 +1474,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5894617301",
@@ -1584,7 +1485,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5883283361",
@@ -1595,7 +1496,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5875064402",
@@ -1606,7 +1507,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5875064381",
@@ -1617,7 +1518,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5875064386",
@@ -1628,7 +1529,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5875064405",
@@ -1639,7 +1540,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5873565336",
@@ -1650,7 +1551,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914008838",
@@ -1661,7 +1562,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910238849",
@@ -1672,7 +1573,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908355603",
@@ -1683,7 +1584,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908343029",
@@ -1694,7 +1595,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904956134",
@@ -1705,7 +1606,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904956131",
@@ -1716,7 +1617,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912849007",
@@ -1727,7 +1628,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848762",
@@ -1738,7 +1639,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386285",
@@ -1749,7 +1650,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386240",
@@ -1760,7 +1661,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386273",
@@ -1771,7 +1672,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386272",
@@ -1782,7 +1683,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386253",
@@ -1793,7 +1694,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912385917",
@@ -1804,7 +1705,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912385983",
@@ -1815,7 +1716,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912385962",
@@ -1826,7 +1727,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912385872",
@@ -1837,7 +1738,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911773612",
@@ -1848,7 +1749,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911773583",
@@ -1859,7 +1760,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911773553",
@@ -1870,7 +1771,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911773540",
@@ -1881,7 +1782,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377849",
@@ -1892,7 +1793,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377405",
@@ -1903,7 +1804,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377376",
@@ -1914,7 +1815,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826137",
@@ -1925,7 +1826,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909825830",
@@ -1936,7 +1837,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909825906",
@@ -1947,7 +1848,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909825958",
@@ -1958,7 +1859,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909825815",
@@ -1969,7 +1870,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908609898",
@@ -1980,7 +1881,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907834160",
@@ -1991,7 +1892,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907833974",
@@ -2002,7 +1903,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914014314",
@@ -2013,7 +1914,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913941273",
@@ -2024,7 +1925,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910252387",
@@ -2035,7 +1936,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910238953",
@@ -2046,7 +1947,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910236233",
@@ -2057,7 +1958,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910226596",
@@ -2068,7 +1969,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910222094",
@@ -2079,7 +1980,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910203739",
@@ -2090,7 +1991,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910196732",
@@ -2101,7 +2002,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908407463",
@@ -2112,7 +2013,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908365085",
@@ -2123,7 +2024,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908342807",
@@ -2134,7 +2035,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908312762",
@@ -2145,7 +2046,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904048788",
@@ -2156,7 +2057,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904045465",
@@ -2167,7 +2068,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5901709006",
@@ -2178,7 +2079,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914293810",
@@ -2189,7 +2090,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914293285",
@@ -2200,7 +2101,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975403",
@@ -2211,7 +2112,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975276",
@@ -2222,7 +2123,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975116",
@@ -2233,7 +2134,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904773464",
@@ -2244,7 +2145,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904075589",
@@ -2255,7 +2156,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898718183",
@@ -2266,7 +2167,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5897335975",
@@ -2277,7 +2178,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877174698",
@@ -2288,7 +2189,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666578",
@@ -2299,7 +2200,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666656",
@@ -2310,7 +2211,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666415",
@@ -2321,7 +2222,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666349",
@@ -2332,7 +2233,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666431",
@@ -2343,7 +2244,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666353",
@@ -2354,7 +2255,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913249087",
@@ -2365,7 +2266,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913249094",
@@ -2376,7 +2277,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848898",
@@ -2387,7 +2288,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848817",
@@ -2398,7 +2299,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848849",
@@ -2409,7 +2310,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848770",
@@ -2420,7 +2321,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848742",
@@ -2431,7 +2332,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386554",
@@ -2442,7 +2343,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386615",
@@ -2453,7 +2354,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386203",
@@ -2464,7 +2365,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912385781",
@@ -2475,7 +2376,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911382877",
@@ -2486,7 +2387,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377662",
@@ -2497,7 +2398,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911377412",
@@ -2508,7 +2409,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826635",
@@ -2519,7 +2420,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826488",
@@ -2530,7 +2431,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826455",
@@ -2541,7 +2442,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909825994",
@@ -2552,7 +2453,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909825875",
@@ -2563,7 +2464,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899549852",
@@ -2574,7 +2475,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905925365",
@@ -2585,7 +2486,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905913951",
@@ -2596,7 +2497,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905903599",
@@ -2607,7 +2508,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905888252",
@@ -2618,7 +2519,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904052141",
@@ -2629,7 +2530,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904050509",
@@ -2640,7 +2541,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904048809",
@@ -2651,18 +2552,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913996299",
-   "title": "HR Generalist Specialist",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913996299?utm_medium=api&utm_source=09801bc5",
-   "company": "Google",
-   "sector": "Tech",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913249100",
@@ -2673,7 +2563,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913249067",
@@ -2684,7 +2574,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848939",
@@ -2695,7 +2585,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848743",
@@ -2706,7 +2596,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911188128",
@@ -2717,7 +2607,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826403",
@@ -2728,7 +2618,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549395",
@@ -2739,7 +2629,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549404",
@@ -2750,7 +2640,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549414",
@@ -2761,7 +2651,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549423",
@@ -2772,7 +2662,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549421",
@@ -2783,7 +2673,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549396",
@@ -2794,7 +2684,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909549389",
@@ -2805,7 +2695,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469535",
@@ -2816,7 +2706,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469516",
@@ -2827,7 +2717,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878710253",
@@ -2838,7 +2728,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878694091",
@@ -2849,7 +2739,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878692449",
@@ -2860,7 +2750,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878691168",
@@ -2871,7 +2761,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878634752",
@@ -2882,7 +2772,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877297899",
@@ -2893,7 +2783,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877296359",
@@ -2904,7 +2794,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877293475",
@@ -2915,7 +2805,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877291976",
@@ -2926,7 +2816,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877288306",
@@ -2937,7 +2827,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877284358",
@@ -2948,7 +2838,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877283880",
@@ -2959,7 +2849,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877270367",
@@ -2970,7 +2860,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904040948",
@@ -2981,7 +2871,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899836824",
@@ -2992,7 +2882,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913249072",
@@ -3003,7 +2893,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912848802",
@@ -3014,7 +2904,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5875448148",
@@ -3025,7 +2915,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826556",
@@ -3036,7 +2926,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909826651",
@@ -3047,7 +2937,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5903791739",
@@ -3058,7 +2948,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914006399",
@@ -3069,7 +2959,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913980960",
@@ -3080,7 +2970,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913942685",
@@ -3091,7 +2981,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912689330",
@@ -3102,7 +2992,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912688948",
@@ -3113,7 +3003,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912686112",
@@ -3124,7 +3014,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912671406",
@@ -3135,7 +3025,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912665639",
@@ -3146,7 +3036,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912654109",
@@ -3157,7 +3047,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911676826",
@@ -3168,7 +3058,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911676037",
@@ -3179,7 +3069,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911673609",
@@ -3190,7 +3080,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911672773",
@@ -3201,7 +3091,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910252746",
@@ -3212,7 +3102,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910249415",
@@ -3223,7 +3113,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910247913",
@@ -3234,7 +3124,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910245882",
@@ -3245,7 +3135,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910243373",
@@ -3256,7 +3146,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910240811",
@@ -3267,7 +3157,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910239775",
@@ -3278,7 +3168,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910239770",
@@ -3289,7 +3179,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910239689",
@@ -3300,7 +3190,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910237727",
@@ -3311,7 +3201,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910235335",
@@ -3322,7 +3212,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910232847",
@@ -3333,7 +3223,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910229707",
@@ -3344,7 +3234,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910227007",
@@ -3355,7 +3245,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913947134",
@@ -3366,7 +3256,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912661067",
@@ -3377,7 +3267,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912639907",
@@ -3388,7 +3278,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912636556",
@@ -3399,7 +3289,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912621125",
@@ -3410,7 +3300,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911675387",
@@ -3421,7 +3311,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911665908",
@@ -3432,7 +3322,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911665816",
@@ -3443,7 +3333,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911648320",
@@ -3454,7 +3344,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910237121",
@@ -3465,7 +3355,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910232849",
@@ -3476,7 +3366,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910231032",
@@ -3487,7 +3377,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910230312",
@@ -3498,7 +3388,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910209564",
@@ -3509,7 +3399,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900808838",
@@ -3520,7 +3410,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898996668",
@@ -3531,7 +3421,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5883489532",
@@ -3542,18 +3432,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5876949097",
-   "title": "Digital Growth Specialist",
-   "location": "Mumbai, Maharashtra",
-   "url": "https://www.adzuna.in/details/5876949097?utm_medium=api&utm_source=09801bc5",
-   "company": "Marico",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5892690072",
@@ -3564,7 +3443,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5885447595",
@@ -3575,7 +3454,7 @@
    "sector": "Consulting",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho7d9af9b5-c1c7-48ec-bbb5-9b25e49f6596",
@@ -3586,7 +3465,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho22c4a7a0-43be-439e-9473-2f8074b3e8d5",
@@ -3597,7 +3476,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho1f2462b8-3548-466e-908f-dcae91cfaee1",
@@ -3608,7 +3487,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho3032374b-0010-4d19-8dd1-26c37c396cba",
@@ -3619,7 +3498,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshof8bdf9a3-74a5-441d-b0b3-9eac7b9836ad",
@@ -3630,7 +3509,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho80ab7795-de6b-4dfe-9a66-a8ad5e7b8a83",
@@ -3641,7 +3520,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshob7f20190-5e8c-4cbc-901a-44a05bfec9be",
@@ -3652,7 +3531,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho1c610094-fbc4-42b0-b7f2-4b05c5569e9a",
@@ -3663,7 +3542,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho974e9975-c536-4219-bdaa-9cd0f2d4d030",
@@ -3674,7 +3553,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho3a60c7e0-bf65-4695-bddc-9f21e68d235d",
@@ -3685,7 +3564,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho538d386d-a584-41ed-91dc-607f83ca1c91",
@@ -3696,7 +3575,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho07d86780-64fb-4ecf-b1d1-9b4602b436de",
@@ -3707,7 +3586,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho22bd899a-f442-419f-9d3f-5046b715c40d",
@@ -3718,7 +3597,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho65435df1-9a07-416e-9b97-381045f9f970",
@@ -3729,7 +3608,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho122c2edd-ea44-41fd-a06f-ecc79588f6c6",
@@ -3740,7 +3619,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho4974b35d-01a9-45b0-b181-f87d43d6d609",
@@ -3751,7 +3630,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshod7924eb1-301e-4098-ab7b-f3a4c92c210a",
@@ -3762,7 +3641,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho9ea9d243-e5fd-4306-8289-6e62a0e2b922",
@@ -3773,7 +3652,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshod4c4d777-d41b-4940-9407-e2100fb5dcd1",
@@ -3784,7 +3663,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshoe1771bdd-0601-4af4-8f20-53553b4d3f10",
@@ -3795,7 +3674,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshoe640ec64-9e6b-482a-b21e-82261334bcd0",
@@ -3806,7 +3685,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho9401d014-8199-4861-8f65-42fda8160e0c",
@@ -3817,7 +3696,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho341136b5-5ea1-4782-8e49-41ff0f564b1b",
@@ -3828,7 +3707,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho965b6d3f-c708-4e98-89b1-bea75d342957",
@@ -3839,7 +3718,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho46754b37-ceb3-4a85-b59d-76b27a453f83",
@@ -3850,7 +3729,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshobff1bcf3-ae0e-4218-94e0-38c45f2a9177",
@@ -3861,7 +3740,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho4891a891-f431-4e98-99ae-0e31a21f0190",
@@ -3872,7 +3751,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshob56573f0-c701-422a-abfa-ac8bbdbfa645",
@@ -3883,7 +3762,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho113ff930-b5bf-42c7-a07d-aa66a9de89d9",
@@ -3894,7 +3773,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho35a98774-fbca-4826-93a0-cc2b19bf2354",
@@ -3905,7 +3784,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshodea44a88-b138-4ef0-87b0-ed8440b0a331",
@@ -3916,7 +3795,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho3a980a2a-6ae4-4738-b06d-9c6483526992",
@@ -3927,7 +3806,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho2b1ae28e-627b-40fd-8ed8-219c864178fa",
@@ -3938,7 +3817,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho1a6888e6-0c37-4611-bcbb-8c2609310c19",
@@ -3949,7 +3828,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeeshoe03deae3-a5f2-428d-b2f3-3c275f8c433b",
@@ -3960,7 +3839,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho534e9923-b091-4250-a178-b28c7c5c99be",
@@ -3971,7 +3850,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho2028b73c-2ae0-4fca-903e-481b8c500629",
@@ -3982,7 +3861,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho97ce9e5a-a8bb-446d-a8db-9078603b106f",
@@ -3993,7 +3872,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvmeesho1de2fc88-e203-4f1a-8046-55df700de4be",
@@ -4004,7 +3883,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912218258",
@@ -4015,7 +3894,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911187785",
@@ -4026,7 +3905,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911187784",
@@ -4037,7 +3916,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910204352",
@@ -4048,7 +3927,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909548374",
@@ -4059,7 +3938,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908398354",
@@ -4070,7 +3949,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904968911",
@@ -4081,7 +3960,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899328109",
@@ -4092,7 +3971,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5896367433",
@@ -4103,7 +3982,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5892384275",
@@ -4114,7 +3993,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5891911511",
@@ -4125,7 +4004,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889504384",
@@ -4136,7 +4015,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889503478",
@@ -4147,7 +4026,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5888773306",
@@ -4158,7 +4037,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5888773305",
@@ -4169,7 +4048,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5887953163",
@@ -4180,7 +4059,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5882275678",
@@ -4191,7 +4070,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879947793",
@@ -4202,7 +4081,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879883287",
@@ -4213,7 +4092,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878059473",
@@ -4224,7 +4103,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878059491",
@@ -4235,7 +4114,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5877288974",
@@ -4246,29 +4125,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5873205956",
-   "title": "Chocolate FP&A Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5873205956?utm_medium=api&utm_source=09801bc5",
-   "company": "Mondelez",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5872786359",
-   "title": "Chocolate FP&A Manager",
-   "location": "Mumbai, Maharashtra",
-   "url": "https://www.adzuna.in/details/5872786359?utm_medium=api&utm_source=09801bc5",
-   "company": "Mondelez",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911675511",
@@ -4279,7 +4136,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910249120",
@@ -4290,7 +4147,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910235325",
@@ -4301,7 +4158,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910231196",
@@ -4312,7 +4169,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910224090",
@@ -4323,7 +4180,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910197535",
@@ -4334,7 +4191,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910194503",
@@ -4345,7 +4202,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5909254459",
@@ -4356,7 +4213,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908403412",
@@ -4367,7 +4224,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908393049",
@@ -4378,7 +4235,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908392189",
@@ -4389,7 +4246,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908385267",
@@ -4400,7 +4257,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908365108",
@@ -4411,7 +4268,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908341530",
@@ -4422,7 +4279,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908317515",
@@ -4433,7 +4290,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905917597",
@@ -4444,7 +4301,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905910832",
@@ -4455,7 +4312,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905898352",
@@ -4466,7 +4323,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905894160",
@@ -4477,7 +4334,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905891931",
@@ -4488,7 +4345,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904434855",
@@ -4499,7 +4356,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902168921",
@@ -4510,7 +4367,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900749416",
@@ -4521,7 +4378,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5900719502",
@@ -4532,7 +4389,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899871844",
@@ -4543,7 +4400,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899848774",
@@ -4554,7 +4411,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898480551",
@@ -4565,7 +4422,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911773604",
@@ -4576,7 +4433,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5880854158",
@@ -4587,7 +4444,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmfeb33510-9ea7-4b69-b69d-87a41f7c2c2c",
@@ -4598,7 +4455,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm8c4d24b4-62d4-466d-9daa-b3c7804c5a67",
@@ -4609,7 +4466,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm4c41d1d2-ed6b-4726-95b8-beb76999ee26",
@@ -4620,7 +4477,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmcf8e7e47-2871-405f-8e19-aa95fa5e6996",
@@ -4631,7 +4488,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm20d54134-b6e5-4816-8da9-42e3a3ed8f57",
@@ -4642,7 +4499,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmdf935f72-9721-414e-9a3b-e20a679fef07",
@@ -4653,7 +4510,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm4a432a72-8763-465e-a107-721b6dd562b1",
@@ -4664,7 +4521,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm99417427-aa53-454d-a483-3b7d2aa20c0c",
@@ -4675,7 +4532,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmab166330-5876-488e-b90c-749df6e871b1",
@@ -4686,7 +4543,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm837c89a3-3598-410c-a0a3-3af4927a42ed",
@@ -4697,7 +4554,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm00765276-c16d-47cf-99d2-85c8c91ada3c",
@@ -4708,7 +4565,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytma39d765c-2623-4b9d-a1a4-7e62a56ec7e2",
@@ -4719,7 +4576,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm8ea991c7-69ba-4e18-9d8f-10165b7586e6",
@@ -4730,7 +4587,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmdb20324e-47cf-410a-99de-d1b3a1870f3d",
@@ -4741,7 +4598,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm3d396d95-cef6-4a5f-bd07-8b21944533a0",
@@ -4752,7 +4609,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm7b89d34b-9a61-43e2-b336-1d33941f3dd9",
@@ -4763,7 +4620,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm85666bed-f6cd-4454-9cad-5906ba185cbc",
@@ -4774,7 +4631,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm772f3cdd-4343-4f8d-9140-b40f3b64449a",
@@ -4785,7 +4642,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm9f059149-ed57-4539-9e06-0855096e7842",
@@ -4796,7 +4653,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmea2de02e-b33d-44df-af5f-04867b4a59c6",
@@ -4807,7 +4664,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm0395d0aa-517e-472f-8989-b377895220b7",
@@ -4818,7 +4675,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmad781ae8-cd4a-44c1-a74b-2822118b7c3d",
@@ -4829,7 +4686,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm271d28ce-e61c-4216-b7d4-adddd79eefa6",
@@ -4840,7 +4697,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm715e52dd-0a51-4ff7-be68-855112e56b99",
@@ -4851,7 +4708,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm84ffd393-c82b-484c-9a88-9f9ddef1b720",
@@ -4862,7 +4719,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm74ce5d90-26b5-41b5-81dc-2ba5b862da60",
@@ -4873,7 +4730,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmcca996fb-c2b7-46a7-8280-c793670aa81f",
@@ -4884,7 +4741,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmf6cf73fc-27e3-4a51-a25d-df54bbe47fab",
@@ -4895,7 +4752,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm590c0e78-080d-4aef-84f1-591fa5ff594b",
@@ -4906,7 +4763,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm5a817d1c-0cae-4d72-bac2-2daf6c296a02",
@@ -4917,7 +4774,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm803d8956-72ed-4f3e-aedb-44b59c78b775",
@@ -4928,7 +4785,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm535dbc67-3694-42df-9652-072981446f44",
@@ -4939,7 +4796,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm861b9aba-b3d5-4c96-8ccb-7f711d3c0ab3",
@@ -4950,7 +4807,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm8189b29c-887f-477d-8db6-dbde30065e8c",
@@ -4961,7 +4818,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmc2fc6a36-bbb3-44bb-88ca-e41f4ffc7119",
@@ -4972,7 +4829,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmf9b0515d-3760-4bba-a564-74aa2b192668",
@@ -4983,7 +4840,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm96a54691-f0c2-46d8-88d1-ee0a84b3b046",
@@ -4994,7 +4851,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmb9933ff7-4d2e-41d7-bd1f-98970f1488b5",
@@ -5005,7 +4862,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm36be80ec-3701-4d0f-8048-7571e3bd3a56",
@@ -5016,7 +4873,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm43dba495-81ea-47a0-99f0-f8d99d7f09bd",
@@ -5027,7 +4884,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm5f453bde-148d-4098-996e-25bb73fdbaa5",
@@ -5038,7 +4895,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmfa5befe1-43f5-417f-a1de-a989264e1871",
@@ -5049,7 +4906,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmc63b74c3-8a95-4126-9464-a2cc1a54eb8a",
@@ -5060,7 +4917,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm0c74128d-b356-4743-8e1d-250bfc13d7ee",
@@ -5071,7 +4928,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmd30bed61-c3d3-4c8b-a119-e4b3333d5d20",
@@ -5082,7 +4939,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm53b29559-bfbc-4e37-a0ab-a4dd71f9547b",
@@ -5093,7 +4950,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm6aabe883-3771-4be4-90eb-734fd3336863",
@@ -5104,7 +4961,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmc53fa192-71f2-4566-afde-a6523d6b75e6",
@@ -5115,7 +4972,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm9d497980-2032-440c-8bac-63fb53938acc",
@@ -5126,7 +4983,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytma2f53649-1fe8-4a0d-97ee-24dab719a9e8",
@@ -5137,7 +4994,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm529b3b9f-626e-4c9b-88a4-9e9e3e657ede",
@@ -5148,7 +5005,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmd649128b-8f45-4d73-ac57-cd3dbfb60736",
@@ -5159,7 +5016,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmf54ae004-636f-476d-aa0e-cc0295f58219",
@@ -5170,7 +5027,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmbc89569c-2551-436d-947d-a80da48167c6",
@@ -5181,7 +5038,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytme0c37d78-8cb9-4172-bcf2-fada0f9a2811",
@@ -5192,7 +5049,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm6701fe11-d9fc-4bbb-ba36-a851e53a2519",
@@ -5203,7 +5060,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm60e0c08c-a1b4-4d12-b0b4-2d9ed94ff79c",
@@ -5214,7 +5071,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm2cf26fd0-439d-4425-8d30-e1ff5d7380bf",
@@ -5225,7 +5082,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmf116beef-d2f5-42f3-b706-cbbc67df6ba7",
@@ -5236,7 +5093,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm77434aa9-51b5-49ac-b8a8-bf27add66336",
@@ -5247,7 +5104,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm7fb9f365-2a5e-451b-9d3b-7c12156ba3d8",
@@ -5258,7 +5115,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm29e9e3b7-9fc2-450a-a13f-1735b3711475",
@@ -5269,7 +5126,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm112463a4-7fd4-44dd-ab5b-dd93877e6976",
@@ -5280,7 +5137,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm798f4ae5-4ef7-4073-9bcc-9aa1b3abf835",
@@ -5291,7 +5148,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmab329615-2830-468d-a97b-64f014508953",
@@ -5302,7 +5159,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm5d6ad294-c8ac-49b6-9142-e7d67cb6af8a",
@@ -5313,7 +5170,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytme825fb5a-2ede-43ab-84dd-90e00dd9e954",
@@ -5324,7 +5181,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm8db4296d-0864-4d33-857a-41aa03759d24",
@@ -5335,7 +5192,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmcee9ed93-5400-4dee-a84f-28a18c802340",
@@ -5346,7 +5203,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmedb4eabe-f52e-454b-84fd-3bd7468be17e",
@@ -5357,7 +5214,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm6cee2f1c-6cae-4e46-9533-d62283f56734",
@@ -5368,7 +5225,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmcf1076c8-e8be-4fc4-8112-aa55051de742",
@@ -5379,7 +5236,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm26a6a342-55db-4262-8e75-648bd8338fd0",
@@ -5390,7 +5247,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm75992181-c0d0-44e7-805a-6dddfd0fe23b",
@@ -5401,7 +5258,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmdcc0e5d5-79c9-4021-84be-a435f54c71d3",
@@ -5412,7 +5269,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmafab6a29-2a98-4f63-8b45-f4b0aaefc1b4",
@@ -5423,7 +5280,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm5e3ae6dd-e4a3-4cfc-acb7-ae8b9d030cc1",
@@ -5434,7 +5291,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmd73b511b-ae92-46f0-9aa1-ac10f2fbb84a",
@@ -5445,7 +5302,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm9c74fdd9-36e1-4e42-839a-d52577bb3d70",
@@ -5456,7 +5313,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm5dbd7403-b047-48e1-b433-574933914ff3",
@@ -5467,7 +5324,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm4ee74e43-4001-457f-9ad8-f574689991d5",
@@ -5478,7 +5335,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmfec8e98b-d09b-4edb-b5a9-fe04aa079a3c",
@@ -5489,7 +5346,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmd3325df8-3be3-41bc-9f99-ecb74cac1fed",
@@ -5500,7 +5357,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm154763a7-3661-41cf-b1d1-3e7c1e12fcc6",
@@ -5511,7 +5368,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm041dc595-2d0b-45d7-9729-f0ac7c0e1764",
@@ -5522,7 +5379,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm41fc393a-8693-4640-bbf2-e72ec3afd8d4",
@@ -5533,7 +5390,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm3a937ec5-b1a3-45f5-ba1e-90944b6775a6",
@@ -5544,7 +5401,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmf3eca6a2-159e-4b24-aec6-f5e5b0858544",
@@ -5555,7 +5412,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm82162dc3-bbd6-4151-af01-d425d44900ef",
@@ -5566,7 +5423,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm9f3726a5-236d-4eff-aae8-f2a56ddb072e",
@@ -5577,7 +5434,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytme78736f2-8d5a-49bb-88da-4cc5a6561d18",
@@ -5588,7 +5445,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm2aee5204-aade-4cf3-9f9e-9d6b8dfc3d20",
@@ -5599,7 +5456,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmdbe8bea9-f0bd-4ab3-a403-97828bcff9a3",
@@ -5610,7 +5467,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm0c8e02de-6720-4e2c-9742-aa4f35ec8327",
@@ -5621,7 +5478,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm12c936fe-3718-42c4-b9d6-5c48a3b54e17",
@@ -5632,7 +5489,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytmbeb24813-6250-46c4-b8af-63aae1f2bbe6",
@@ -5643,7 +5500,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytme3f92fb6-4d2e-4acd-bdb1-e8d70b9ba32a",
@@ -5654,7 +5511,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytme98faea3-26b4-4585-b0bb-7031dff221a0",
@@ -5665,7 +5522,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm0a418b0f-6d2f-486f-bbf3-155f09e1fce3",
@@ -5676,7 +5533,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm021ee805-1a37-48a6-9a01-3e129ae03c3a",
@@ -5687,7 +5544,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm5a4d9ea3-feea-405d-b36e-ae8def1a9e06",
@@ -5698,7 +5555,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm88e8b698-8f03-4e09-9581-168f831fb3af",
@@ -5709,7 +5566,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm36f0fe45-a771-4f97-aac1-0a9ca1d73f18",
@@ -5720,7 +5577,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm127fd4e0-1249-42c0-bde4-61dc6fe8df81",
@@ -5731,7 +5588,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm825b704f-6933-4280-aa75-0f2095078077",
@@ -5742,7 +5599,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "lvpaytm552ba2c8-ffb8-4342-8d8c-ca1903800a68",
@@ -5753,238 +5610,7 @@
    "sector": "Tech",
    "src": "company",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5912386405",
-   "title": "Consumer & Shop Insights Assoc Manager",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5912386405?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5911773634",
-   "title": "Assistant Manager- FLNA-MDM",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5911773634?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5910505928",
-   "title": "Manager - ECommerce",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5910505928?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5909825959",
-   "title": "Assistant Manager - TPM",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5909825959?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5901481034",
-   "title": "Associate Manager - Finance",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5901481034?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5900808784",
-   "title": "Associate Manager Finance - FPC Ecosystem",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5900808784?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5899925015",
-   "title": "Executive Manager - Information Security",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5899925015?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5899549982",
-   "title": "Field Sales Management Coordinator",
-   "location": "Kolkata, West Bengal",
-   "url": "https://www.adzuna.in/details/5899549982?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5898599530",
-   "title": "Assistant Manager - DX Transformation",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5898599530?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5898178811",
-   "title": "Finance Assoc Analyst",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5898178811?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5898178880",
-   "title": "Field Sales Management Sr Coord",
-   "location": "Ahmedabad, Gujarat",
-   "url": "https://www.adzuna.in/details/5898178880?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5896658251",
-   "title": "Sr. Executive -Sales & Operations",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5896658251?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5895470007",
-   "title": "Associate Manager- FP&A",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5895470007?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5895065885",
-   "title": "Associate Director SWE & AI",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5895065885?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5895065694",
-   "title": "Sr. Executive- Sales & Operations",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5895065694?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5895065809",
-   "title": "Senior Manager - SAP Security (Authorizations & Compliance)",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5895065809?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5892690033",
-   "title": "Deputy Manager- FP&A",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5892690033?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5890486904",
-   "title": "Architect - JDA Supply Chain",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5890486904?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5887520631",
-   "title": "Digital Product Manager",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5887520631?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5887520640",
-   "title": "Data & Governance Senior Analyst",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5887520640?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5885974679",
-   "title": "Sales Asst Analyst",
-   "location": "Hyderabad, Telangana",
-   "url": "https://www.adzuna.in/details/5885974679?utm_medium=api&utm_source=09801bc5",
-   "company": "PepsiCo",
-   "sector": "FMCG",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899847580",
@@ -5995,7 +5621,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898490357",
@@ -6006,7 +5632,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5895361477",
@@ -6017,7 +5643,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5887520906",
@@ -6028,7 +5654,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913655381",
@@ -6039,7 +5665,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907315133",
@@ -6050,7 +5676,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905949235",
@@ -6061,7 +5687,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904075513",
@@ -6072,7 +5698,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904075435",
@@ -6083,7 +5709,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5903437204",
@@ -6094,7 +5720,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5903437050",
@@ -6105,7 +5731,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898718113",
@@ -6116,7 +5742,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898718100",
@@ -6127,18 +5753,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5895662217",
-   "title": "HRBP - Lending Sales",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5895662217?utm_medium=api&utm_source=09801bc5",
-   "company": "PhonePe",
-   "sector": "Tech",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5895662160",
@@ -6149,7 +5764,18 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
+  },
+  {
+   "id": "adz5895662217",
+   "title": "HRBP - Lending Sales",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5895662217?utm_medium=api&utm_source=09801bc5",
+   "company": "PhonePe",
+   "sector": "Tech",
+   "src": "adzuna",
+   "first_seen": "2026-10-06",
+   "new": false
   },
   {
    "id": "adz5894973512",
@@ -6160,7 +5786,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5890098436",
@@ -6171,7 +5797,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889410219",
@@ -6182,7 +5808,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889409801",
@@ -6193,7 +5819,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889409876",
@@ -6204,7 +5830,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5888612000",
@@ -6215,7 +5841,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5887051528",
@@ -6226,7 +5852,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5885447593",
@@ -6237,7 +5863,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5885447102",
@@ -6248,18 +5874,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5880113934",
-   "title": "Associate Manager- CRM",
-   "location": "Bangalore, Karnataka",
-   "url": "https://www.adzuna.in/details/5880113934?utm_medium=api&utm_source=09801bc5",
-   "company": "PhonePe",
-   "sector": "Tech",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5880113977",
@@ -6270,7 +5885,18 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
+  },
+  {
+   "id": "adz5880113934",
+   "title": "Associate Manager- CRM",
+   "location": "Bangalore, Karnataka",
+   "url": "https://www.adzuna.in/details/5880113934?utm_medium=api&utm_source=09801bc5",
+   "company": "PhonePe",
+   "sector": "Tech",
+   "src": "adzuna",
+   "first_seen": "2026-10-06",
+   "new": false
   },
   {
    "id": "adz5880113997",
@@ -6281,7 +5907,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878550585",
@@ -6292,7 +5918,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911188165",
@@ -6303,7 +5929,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5911188167",
@@ -6314,7 +5940,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910206292",
@@ -6325,7 +5951,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5907469680",
@@ -6336,7 +5962,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905893276",
@@ -6347,7 +5973,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904979045",
@@ -6358,7 +5984,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904434721",
@@ -6369,7 +5995,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5896368593",
@@ -6380,7 +6006,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5887229181",
@@ -6391,7 +6017,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5880673222",
@@ -6402,7 +6028,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5880673216",
@@ -6413,7 +6039,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878060337",
@@ -6424,480 +6050,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914016415",
-   "title": "LLMOps  MLOps - Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914016415?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914016332",
-   "title": "IN_Senior Associate_ SAP MM_Enterprise Apps SAP_Advisory_Gurgaon",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914016332?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914013024",
-   "title": "IN_Associate_LMS _Enterprise Apps SAP_Advisory_ Pune",
-   "location": "Pune, Maharashtra",
-   "url": "https://www.adzuna.in/details/5914013024?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914012840",
-   "title": "IN_Manager_SAP MM_SAP_Advisory_Gurgaon",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914012840?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914011842",
-   "title": "IN_Senior Associate_SAP IBP_SAP_Advisory_Pune",
-   "location": "Pune, Maharashtra",
-   "url": "https://www.adzuna.in/details/5914011842?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914011804",
-   "title": "LLMOps  MLOps - Associate 2",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914011804?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914011758",
-   "title": "LLMOps  MLOps - Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914011758?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914010220",
-   "title": "IN_Manager_Investment Banking_CFIB_Advisory_Bengaluru",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914010220?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914009987",
-   "title": "SAP Business process control - Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914009987?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914007670",
-   "title": "IN_Manager_SAP BPC_Enterprise APP SAP_Advisory_Ahmedabad",
-   "location": "Ahmedabad, Gujarat",
-   "url": "https://www.adzuna.in/details/5914007670?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914007282",
-   "title": "IN_Specialist 3_SAP SAC _SAP_Advisory_Mumbai",
-   "location": "Goregaon East, Mumbai",
-   "url": "https://www.adzuna.in/details/5914007282?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914007019",
-   "title": "IN-Sr Associate_ SAP MM _ Enterprise Apps-SAP_ Advisory _Mumbai",
-   "location": "Goregaon East, Mumbai",
-   "url": "https://www.adzuna.in/details/5914007019?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914006844",
-   "title": "IN_Associate_Governance GRC_ITRA_Advisory_Bangalore",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914006844?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914006815",
-   "title": "IN- Senior Associate_IA_Internal Audit Services_Advisory_Mumbai",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914006815?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914005500",
-   "title": "Finance \u2013 GL, AP, CM, Expenses - Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914005500?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914004925",
-   "title": "SAP-FICO-Senior Associate-Hyderabad",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914004925?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914004220",
-   "title": "Cybersecurity-ETS-SAP GTS-Senior Manager-Bangalore",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914004220?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914003970",
-   "title": "IN_Senior Associate__SAP BPC / SAC_Enterprise APP SAP_Advisory_Bangalore",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914003970?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914003520",
-   "title": "SAP GRC Security \u2013 Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914003520?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5914003163",
-   "title": "IN_Associates_SAP ABAP_Enterprise Apps SAP_Advisory_Chennai",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5914003163?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913997889",
-   "title": "IN-Associate_SAP ABAP_Enterprise Apps SAP_Advisory_Pune",
-   "location": "Pune, Maharashtra",
-   "url": "https://www.adzuna.in/details/5913997889?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913997447",
-   "title": "Associate- Marketing Operations",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913997447?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913995839",
-   "title": "Oracle EPM FCCS - Associate 2",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913995839?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913994526",
-   "title": "Azure Databricks - Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913994526?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913994251",
-   "title": "IN_Associate_Financial Services _Internal audit services_Advisory_Mumbai",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913994251?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913993847",
-   "title": "IN_Manager_Project Management_Strategy & Governance_Advisory_Bangalore",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913993847?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913991423",
-   "title": "IN_Senior Associate_SAP MM _SAP_Advisory_Pune",
-   "location": "Pune, Maharashtra",
-   "url": "https://www.adzuna.in/details/5913991423?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913989810",
-   "title": "Data Analysis - SQL  Core Domain Data skills - Associate 2",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913989810?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913985847",
-   "title": "IN_Senior Associate_SAP CO_SAP_Advisory_Pune",
-   "location": "Pune, Maharashtra",
-   "url": "https://www.adzuna.in/details/5913985847?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913977297",
-   "title": "IN_Manager_SAP TM_Enterprise Apps-SAP_Advisory_Pune",
-   "location": "Pune, Maharashtra",
-   "url": "https://www.adzuna.in/details/5913977297?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913974462",
-   "title": "IN_Associate_SAP ABAP_SAP_Advisory_Mumbai",
-   "location": "Goregaon East, Mumbai",
-   "url": "https://www.adzuna.in/details/5913974462?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913969465",
-   "title": "Reltio MDM - Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913969465?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913962378",
-   "title": "Managed Services - Corporate Finance - Associate 2",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913962378?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913961286",
-   "title": "IN_Associate_SAP FICO_Enterprise Apps SAP_Advisory_Kolkata",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913961286?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913951503",
-   "title": "IN_Associate_SAP Opentext_SAP_Advisory_Kolkata",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913951503?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913948436",
-   "title": "SAP Business process control - Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913948436?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913946299",
-   "title": "Data Modeling - PLS - Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913946299?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913944567",
-   "title": "SAP PM-Senior Associate-Gurgaon",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913944567?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913941775",
-   "title": "Data Analysis - SQL  Core Domain Data skills - Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913941775?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913941297",
-   "title": "Data Modeling - PLS - Senior Associate",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913941297?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913941149",
-   "title": "Workday Security & Control - Senior Manager",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913941149?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5913940775",
-   "title": "IN_Senior Associate_SAP FIORI_SAP_Advisory_Bangalore",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5913940775?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5912690089",
-   "title": "IN_Senior Associate_Internal Audit_ Internal audit services_Advisory_Mumbai",
-   "location": "India",
-   "url": "https://www.adzuna.in/details/5912690089?utm_medium=api&utm_source=09801bc5",
-   "company": "PwC",
-   "sector": "Consulting",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666707",
@@ -6908,7 +6061,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904039138",
@@ -6919,7 +6072,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904036847",
@@ -6930,7 +6083,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902915248",
@@ -6941,7 +6094,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899838976",
@@ -6952,7 +6105,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5897066226",
@@ -6963,7 +6116,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5895350083",
@@ -6974,7 +6127,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5894113065",
@@ -6985,7 +6138,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5894106283",
@@ -6996,7 +6149,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5893831756",
@@ -7007,7 +6160,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5887956423",
@@ -7018,7 +6171,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879141397",
@@ -7029,7 +6182,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879141365",
@@ -7040,7 +6193,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879141298",
@@ -7051,7 +6204,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879141304",
@@ -7062,7 +6215,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5879141280",
@@ -7073,7 +6226,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914176405",
@@ -7084,7 +6237,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908098039",
@@ -7095,7 +6248,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905434174",
@@ -7106,7 +6259,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905062629",
@@ -7117,7 +6270,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5901919590",
@@ -7128,7 +6281,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5901762364",
@@ -7139,7 +6292,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5885974953",
@@ -7150,7 +6303,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5880002273",
@@ -7161,7 +6314,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878873574",
@@ -7172,7 +6325,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481390",
@@ -7183,7 +6336,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481393",
@@ -7194,7 +6347,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481398",
@@ -7205,7 +6358,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481394",
@@ -7216,7 +6369,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481401",
@@ -7227,7 +6380,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481400",
@@ -7238,7 +6391,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481389",
@@ -7249,7 +6402,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481358",
@@ -7260,7 +6413,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481359",
@@ -7271,7 +6424,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481357",
@@ -7282,7 +6435,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481346",
@@ -7293,7 +6446,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481360",
@@ -7304,7 +6457,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481323",
@@ -7315,7 +6468,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481295",
@@ -7326,7 +6479,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481322",
@@ -7337,7 +6490,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481325",
@@ -7348,7 +6501,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5876481317",
@@ -7359,7 +6512,7 @@
    "sector": "FMCG",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912386597",
@@ -7370,7 +6523,7 @@
    "sector": "Conglomerate",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914013125",
@@ -7381,7 +6534,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5914007848",
@@ -7392,7 +6545,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666381",
@@ -7403,7 +6556,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5908408907",
@@ -7414,7 +6567,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666167",
@@ -7425,7 +6578,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221386",
@@ -7436,7 +6589,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221389",
@@ -7447,7 +6600,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221383",
@@ -7458,7 +6611,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221382",
@@ -7469,7 +6622,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221385",
@@ -7480,7 +6633,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221388",
@@ -7491,7 +6644,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912034313",
@@ -7502,7 +6655,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912034320",
@@ -7513,7 +6666,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912034319",
@@ -7524,7 +6677,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912034321",
@@ -7535,7 +6688,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860577",
@@ -7546,7 +6699,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860562",
@@ -7557,7 +6710,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860548",
@@ -7568,7 +6721,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860579",
@@ -7579,7 +6732,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860553",
@@ -7590,7 +6743,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860569",
@@ -7601,7 +6754,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860587",
@@ -7612,7 +6765,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860584",
@@ -7623,7 +6776,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860568",
@@ -7634,7 +6787,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860588",
@@ -7645,7 +6798,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860591",
@@ -7656,7 +6809,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860589",
@@ -7667,7 +6820,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860580",
@@ -7678,7 +6831,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913666289",
@@ -7689,7 +6842,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913221327",
@@ -7700,7 +6853,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5910860516",
@@ -7711,7 +6864,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913249140",
@@ -7722,7 +6875,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905434220",
@@ -7733,7 +6886,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904434748",
@@ -7744,7 +6897,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904151418",
@@ -7755,7 +6908,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898178718",
@@ -7766,7 +6919,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5896657858",
@@ -7777,7 +6930,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5895065681",
@@ -7788,7 +6941,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5889085496",
@@ -7799,7 +6952,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5880854141",
@@ -7810,7 +6963,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5878284577",
@@ -7821,7 +6974,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5873987632",
@@ -7832,7 +6985,7 @@
    "sector": "BFSI",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5885974700",
@@ -7843,7 +6996,7 @@
    "sector": "Pharma & Healthcare",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913655337",
@@ -7854,7 +7007,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5913655347",
@@ -7865,7 +7018,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975345",
@@ -7876,7 +7029,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975239",
@@ -7887,7 +7040,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5912975139",
@@ -7898,7 +7051,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5905949230",
@@ -7909,7 +7062,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904773522",
@@ -7920,18 +7073,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
-  },
-  {
-   "id": "adz5904075436",
-   "title": "Senior Manager - Strategic Partnerships",
-   "location": "Mumbai, Maharashtra",
-   "url": "https://www.adzuna.in/details/5904075436?utm_medium=api&utm_source=09801bc5",
-   "company": "Swiggy",
-   "sector": "Tech",
-   "src": "adzuna",
-   "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904075481",
@@ -7942,7 +7084,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5904075454",
@@ -7953,7 +7095,18 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
+  },
+  {
+   "id": "adz5904075436",
+   "title": "Senior Manager - Strategic Partnerships",
+   "location": "Mumbai, Maharashtra",
+   "url": "https://www.adzuna.in/details/5904075436?utm_medium=api&utm_source=09801bc5",
+   "company": "Swiggy",
+   "sector": "Tech",
+   "src": "adzuna",
+   "first_seen": "2026-10-06",
+   "new": false
   },
   {
    "id": "adz5903437104",
@@ -7964,7 +7117,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902535442",
@@ -7975,7 +7128,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902535462",
@@ -7986,7 +7139,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902535489",
@@ -7997,7 +7150,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5902535303",
@@ -8008,7 +7161,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5899991040",
@@ -8019,7 +7172,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898718265",
@@ -8030,7 +7183,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5897335943",
@@ -8041,7 +7194,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5895065623",
@@ -8052,7 +7205,7 @@
    "sector": "Auto & Industrial",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5885447672",
@@ -8063,7 +7216,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5890242164",
@@ -8074,7 +7227,7 @@
    "sector": "Consumer Durables",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5898178740",
@@ -8085,7 +7238,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   },
   {
    "id": "adz5896657776",
@@ -8096,7 +7249,7 @@
    "sector": "Tech",
    "src": "adzuna",
    "first_seen": "2026-10-06",
-   "new": true
+   "new": false
   }
  ]
 }
