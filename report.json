@@ -1,5 +1,6 @@
 {
  "found": [
+  "Accenture",
   "Aditya Birla Capital",
   "Adobe",
   "Amazon",
@@ -31,19 +32,21 @@
   "Kotak Mahindra Bank",
   "Larsen & Toubro",
   "Lupin",
+  "Marico",
   "McKinsey & Company",
   "Meesho",
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
   "Paytm",
+  "PepsiCo",
   "Philips",
   "PhonePe",
   "Procter & Gamble",
+  "PwC",
   "Razorpay",
   "Reckitt",
   "Reliance Industries",
-  "Salesforce",
   "Samsung",
   "Schneider Electric",
   "Siemens",
@@ -56,17 +59,13 @@
   "Zepto"
  ],
  "missing": [
-  "PwC",
-  "Accenture",
   "Kearney",
   "Oliver Wyman",
   "ZS Associates",
   "Arthur D. Little",
   "Nestle India",
   "ITC",
-  "PepsiCo",
   "Dabur",
-  "Marico",
   "Godrej Consumer Products",
   "Britannia",
   "L'Oreal",
@@ -84,6 +83,7 @@
   "Nykaa",
   "Oracle",
   "SAP",
+  "Salesforce",
   "Cisco",
   "Tata Motors",
   "Mahindra & Mahindra",
@@ -104,15 +104,9 @@
   "Bharti Airtel"
  ],
  "by_source": {
-  "company": 150,
-  "adzuna": 509,
+  "company": 153,
+  "adzuna": 610,
   "jobspy": 0
  },
- "errors": [
-  "adzuna failed: PwC",
-  "adzuna failed: Accenture",
-  "adzuna failed: PepsiCo",
-  "adzuna failed: Marico",
-  "adzuna failed: HDFC Bank"
- ]
+ "errors": []
 }
