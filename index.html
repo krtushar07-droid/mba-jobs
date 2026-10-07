@@ -70,6 +70,10 @@ div.thumb{cursor:default}
 .thumb .tap{position:absolute;left:10px;bottom:10px;background:rgba(15,23,60,.78);color:#fff;border-radius:99px;padding:6px 12px;font-size:12px;font-weight:600}
 .empty{text-align:center;padding:36px 18px;color:var(--mute)}.empty b{display:block;color:var(--ink);font-size:17px;margin:8px 0 4px}.empty.err{color:#C0304F}
 .empty .btn{display:inline-block;flex:none;margin-top:16px;padding:14px 26px}
+.fsel{width:100%;border:1px solid var(--line);background:var(--card);border-radius:14px;padding:13px 14px;font-weight:600;margin-bottom:6px}
+.flabel{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin:18px 0 10px}
+.fwrap{display:flex;gap:8px;flex-wrap:wrap}
+.fwrap .chip{padding:10px 14px}
 .coach{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:16px}
 .tile{display:flex;align-items:center;gap:10px;padding:14px;border:1px solid var(--line);background:var(--bg);border-radius:16px;font-weight:600;font-size:14px;line-height:1.25;text-align:left;cursor:pointer;min-width:0}
 .tile svg{color:var(--blue)}
@@ -138,7 +142,7 @@ const load=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))||d}catch(e){re
 const save=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}};
 const USER=Object.assign({name:''},load('ph_user',{}));
 const initials=n=>n.trim().split(/\s+/).map(w=>w[0]).slice(0,2).join('').toUpperCase()||'?';
-const S={tab:'home',jobs:[],notices:[],news:[],failed:{},ready:false,q:'',sector:'',company:'',cat:'All',limit:30,open:{},updated:'',saved:load('ph_saved',[]),hideInstall:false};
+const S={tab:'home',jobs:[],notices:[],news:[],failed:{},ready:false,q:'',sector:'',company:'',cat:'All',limit:30,open:{},updated:'',saved:load('ph_saved',[]),hideInstall:false,spec:[],intern:false};
 let dp=null;
 
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -170,6 +174,37 @@ const tagFor=n=>{const t=(n.title+' '+n.body).toLowerCase();
  if(Date.now()-new Date(n.sent)<2*864e5)return['New',''];return null};
 const tagHtml=n=>{const t=tagFor(n);return t?`<span class="tag ${t[1]}">${t[0]}</span>`:''};
 const empty=(t,e)=>`<div class="empty${e?' err':''}">${t}</div>`;
+
+const SPECS={
+ 'Marketing':/marketing|brand|digital|\bseo\b|content|social media|growth|communication|campaign/i,
+ 'Sales':/\bsales\b|business development|relationship manager|account manager|key account|\bbd\b/i,
+ 'Finance':/financ|account(s|ant|ing)\b|audit|treasury|credit|investment|banking|\brisk\b|equity|\btax/i,
+ 'Operations':/operation|logistic|supply chain|procurement|warehouse|production|plant|\bscm\b|\bsourcing/i,
+ 'Business Analytics':/business analyst|analytics|\banalyst\b|\bdata\b|insight|\bmis\b|\bbi\b/i,
+ 'HR':/\bhr\b|human resource|talent|recruit|\bpeople\b|learning and development|\bl&d\b|payroll/i
+};
+const specOf=j=>{const t=(j.title||'')+' '+(j.department||'');return Object.keys(SPECS).filter(k=>SPECS[k].test(t))};
+const isIntern=j=>/\b(intern|internship|trainee|apprentice)/i.test((j.title||'')+' '+(j.type||j.job_type||''));
+const matchJob=j=>{const q=S.q.trim().toLowerCase();
+ return (!S.sector||j.sector===S.sector)&&(!S.company||j.company===S.company)
+  &&(!S.spec.length||specOf(j).some(k=>S.spec.includes(k)))&&(!S.intern||isIntern(j))
+  &&(!q||((j.title||'')+' '+(j.company||'')+' '+(j.location||'')).toLowerCase().includes(q))};
+const filterCount=()=>(S.sector?1:0)+(S.company?1:0)+S.spec.length+(S.intern?1:0);
+const optsFor=(k,cur,all)=>`<option value="">${all}</option>`+[...new Set(S.jobs.map(j=>j[k]))].filter(Boolean).sort().map(v=>`<option${v===cur?' selected':''} value="${esc(v)}">${esc(v)}</option>`).join('');
+function openFilter(){
+ const n=S.jobs.filter(matchJob).length;
+ $('sheet').innerHTML=`<div class="panel" role="dialog" aria-modal="true" aria-label="Filters"><div class="top"><h3 style="font-size:20px">Filters</h3><button class="icon" data-close="1" aria-label="Close">${ic.x}</button></div>
+ <div class="flabel" style="margin-top:6px">Specialization</div>
+ <div class="fwrap">${Object.keys(SPECS).map(k=>`<button class="chip${S.spec.includes(k)?' on':''}" data-spec="${esc(k)}">${esc(k)}</button>`).join('')}</div>
+ <div class="flabel">Job type</div>
+ <div class="fwrap"><button class="chip${S.intern?' on':''}" data-intern="1">Internships only</button></div>
+ <div class="flabel">Sector</div><select class="fsel" id="fsel" aria-label="Sector">${optsFor('sector',S.sector,'All sectors')}</select>
+ <div class="flabel">Company</div><select class="fsel" id="csel" aria-label="Company">${optsFor('company',S.company,'All companies')}</select>
+ <div class="actions" style="margin-top:22px"><button class="btn sec" data-freset="1">Reset</button><button class="btn pri" data-close="1">Show ${n} jobs</button></div></div>`;
+ $('sheet').classList.add('show');document.body.style.overflow='hidden';
+}
+function refreshFilter(){S.limit=30;render();openFilter()}
+function resetFilters(){S.sector='';S.company='';S.spec=[];S.intern=false;S.limit=30}
 
 function jobCard(j){
  const url=safeUrl(j.url),on=S.saved.includes(j.id);
@@ -203,11 +238,11 @@ function vHome(){
 
 function vJobs(){
  const q=S.q.trim().toLowerCase();
- const f=S.jobs.filter(j=>(!S.sector||j.sector===S.sector)&&(!S.company||j.company===S.company)&&(!q||((j.title||'')+' '+(j.company||'')+' '+(j.location||'')).toLowerCase().includes(q)));
+ const f=S.jobs.filter(matchJob),nf=filterCount();
  const opts=(k,cur,all)=>`<option value="">${all}</option>`+[...new Set(S.jobs.map(j=>j[k]))].filter(Boolean).sort().map(v=>`<option${v===cur?' selected':''} value="${esc(v)}">${esc(v)}</option>`).join('');
  return `<div class="eyebrow">Opportunities</div><h1>Find your next move.</h1><p class="sub">Fresh openings curated for MBA students.</p>
  <label class="field">${svg('<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>')}<input id="q" type="search" placeholder="Search roles, companies, skills" value="${esc(S.q)}" autocomplete="off"></label>
- <div class="chips"><button class="chip" data-soon="Smart job search">AI search</button><button class="chip" data-soon="Recommended jobs">For you</button><select id="fs" aria-label="Sector">${opts('sector',S.sector,'Sector: All')}</select><select id="fc" aria-label="Company">${opts('company',S.company,'Company: All')}</select></div>
+ <div class="chips"><button class="chip${nf?' on':''}" data-filter="1">Filters${nf?' ('+nf+')':''}</button>${nf?'<button class="chip" data-clearf="1">Clear</button>':''}<button class="chip" data-soon="Smart job search">AI search</button><button class="chip" data-soon="Recommended jobs">For you</button></div>
  <p class="meta" style="margin:12px 0">${f.length} active openings</p>
  ${S.failed.jobs?empty('Could not load jobs.json.',1):!f.length?empty('No jobs match your search.'):''}
  ${f.slice(0,S.limit).map(jobCard).join('')}${f.length>S.limit?`<button class="btn sec" data-more="1">Show more (${f.length-S.limit} left)</button>`:''}`;
@@ -271,11 +306,16 @@ function openSheet(i){
 function closeSheet(){$('sheet').classList.remove('show');document.body.style.overflow=''}
 
 document.addEventListener('click',e=>{
- const t=e.target.closest('[data-go],[data-pop],[data-save],[data-share],[data-notice],[data-news],[data-cat],[data-more],[data-close],[data-install],[data-hide],[data-savename],[data-soon]');
+ const t=e.target.closest('[data-go],[data-pop],[data-save],[data-share],[data-notice],[data-news],[data-cat],[data-more],[data-close],[data-install],[data-hide],[data-savename],[data-soon],[data-filter],[data-spec],[data-intern],[data-freset],[data-clearf]');
  if(e.target===$('sheet'))return closeSheet();
  if(!t){if(!e.target.closest('#pop'))closePop();return}
  const d=t.dataset;
  if(d.soon)return openSoon(d.soon);
+ if(d.filter)return openFilter();
+ if(d.spec){S.spec=S.spec.includes(d.spec)?S.spec.filter(x=>x!==d.spec):[...S.spec,d.spec];return refreshFilter()}
+ if(d.intern){S.intern=!S.intern;return refreshFilter()}
+ if(d.freset){resetFilters();return refreshFilter()}
+ if(d.clearf){resetFilters();return render()}
  if(d.go){closeSheet();return go(d.go,d.focus)}
  if(d.pop)return togglePop(d.pop);
  if(d.save){S.saved=S.saved.includes(d.save)?S.saved.filter(x=>x!==d.save):[...S.saved,d.save];save('ph_saved',S.saved);return render()}
@@ -295,6 +335,7 @@ document.addEventListener('input',e=>{
  if(id==='q')S.q=e.target.value;if(id==='fs')S.sector=e.target.value;if(id==='fc')S.company=e.target.value;
  S.limit=30;render();
 });
+document.addEventListener('change',e=>{if(e.target.id==='fsel'){S.sector=e.target.value;refreshFilter()}if(e.target.id==='csel'){S.company=e.target.value;refreshFilter()}});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeSheet();closePop()}});
 document.addEventListener('error',e=>{if(e.target.tagName==='IMG')e.target.remove()},true);
 window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();dp=e;if(S.tab==='home')render()});
