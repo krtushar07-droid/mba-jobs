@@ -33,7 +33,6 @@
   "ITC",
   "JSW",
   "Kotak Mahindra Bank",
-  "L'Oreal",
   "Larsen & Toubro",
   "Lupin",
   "Mahindra & Mahindra",
@@ -61,6 +60,7 @@
   "Swiggy",
   "TVS Motor",
   "Tata Steel",
+  "Titan",
   "Whirlpool",
   "Zepto"
  ],
@@ -75,6 +75,7 @@
   "Marico",
   "Godrej Consumer Products",
   "Britannia",
+  "L'Oreal",
   "ICICI Bank",
   "State Bank of India",
   "Citi",
@@ -98,15 +99,14 @@
   "Hindalco",
   "UltraTech Cement",
   "Pidilite",
-  "Titan",
   "Havells",
   "LG Electronics",
   "Cipla"
  ],
  "by_source": {
   "company": 157,
-  "adzuna": 550,
-  "jobspy": 48
+  "adzuna": 531,
+  "jobspy": 49
  },
  "errors": []
 }
