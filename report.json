@@ -30,18 +30,21 @@
   "HSBC",
   "Hindustan Unilever",
   "IBM",
+  "ICICI Prudential Life",
   "ITC",
   "JSW",
   "Kotak Mahindra Bank",
   "Larsen & Toubro",
   "Lupin",
   "Mahindra & Mahindra",
+  "Maruti Suzuki",
   "McKinsey & Company",
   "Meesho",
   "Microsoft",
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
+  "Nestle India",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -60,7 +63,6 @@
   "Swiggy",
   "TVS Motor",
   "Tata Steel",
-  "Titan",
   "Whirlpool",
   "Zepto"
  ],
@@ -70,7 +72,6 @@
   "Oliver Wyman",
   "ZS Associates",
   "Arthur D. Little",
-  "Nestle India",
   "Dabur",
   "Marico",
   "Godrej Consumer Products",
@@ -81,7 +82,6 @@
   "Citi",
   "JPMorgan Chase",
   "HDFC Life",
-  "ICICI Prudential Life",
   "Flipkart",
   "Zomato",
   "Ola",
@@ -91,7 +91,6 @@
   "Oracle",
   "SAP",
   "Tata Motors",
-  "Maruti Suzuki",
   "Hero MotoCorp",
   "Bajaj Auto",
   "Vedanta",
@@ -99,14 +98,17 @@
   "Hindalco",
   "UltraTech Cement",
   "Pidilite",
+  "Titan",
   "Havells",
   "LG Electronics",
   "Cipla"
  ],
  "by_source": {
   "company": 157,
-  "adzuna": 531,
-  "jobspy": 49
+  "adzuna": 498,
+  "jobspy": 76
  },
- "errors": []
+ "errors": [
+  "adzuna failed: EY"
+ ]
 }
