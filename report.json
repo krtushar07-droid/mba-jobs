@@ -24,7 +24,6 @@
   "Goldman Sachs",
   "Google",
   "HSBC",
-  "Hindustan Unilever",
   "IBM",
   "ICICI Bank",
   "ITC",
@@ -33,12 +32,10 @@
   "Larsen & Toubro",
   "Lupin",
   "Mahindra & Mahindra",
-  "McKinsey & Company",
   "Meesho",
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
-  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -48,7 +45,6 @@
   "Razorpay",
   "Reckitt",
   "Reliance Industries",
-  "SAP",
   "Schneider Electric",
   "Siemens",
   "Standard Chartered",
@@ -58,11 +54,13 @@
   "Zepto"
  ],
  "missing": [
+  "McKinsey & Company",
   "KPMG",
   "Kearney",
   "Oliver Wyman",
   "ZS Associates",
   "Arthur D. Little",
+  "Hindustan Unilever",
   "Nestle India",
   "Dabur",
   "Marico",
@@ -82,6 +80,8 @@
   "Uber",
   "Nykaa",
   "Adobe",
+  "Oracle",
+  "SAP",
   "Salesforce",
   "Tata Motors",
   "Maruti Suzuki",
@@ -104,9 +104,9 @@
   "Bharti Airtel"
  ],
  "by_source": {
-  "company": 162,
-  "adzuna": 530,
-  "jobspy": 37
+  "company": 165,
+  "adzuna": 526,
+  "jobspy": 40
  },
  "errors": []
 }
