@@ -2,6 +2,7 @@
  "found": [
   "Accenture",
   "Aditya Birla Capital",
+  "Adobe",
   "Amazon",
   "American Express",
   "Asian Paints",
@@ -23,10 +24,8 @@
   "EY",
   "Goldman Sachs",
   "Google",
-  "HDFC Life",
   "HSBC",
   "Hindustan Unilever",
-  "IBM",
   "ICICI Bank",
   "ITC",
   "JSW",
@@ -40,6 +39,7 @@
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
+  "Nestle India",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -54,8 +54,7 @@
   "Standard Chartered",
   "Swiggy",
   "Tata Steel",
-  "Whirlpool",
-  "Zepto"
+  "Whirlpool"
  ],
  "missing": [
   "McKinsey & Company",
@@ -64,7 +63,6 @@
   "Oliver Wyman",
   "ZS Associates",
   "Arthur D. Little",
-  "Nestle India",
   "Dabur",
   "Marico",
   "Godrej Consumer Products",
@@ -73,16 +71,18 @@
   "State Bank of India",
   "Citi",
   "JPMorgan Chase",
+  "HDFC Life",
   "ICICI Prudential Life",
   "Flipkart",
   "Zomato",
   "Ola",
   "Uber",
   "Nykaa",
-  "Adobe",
+  "Zepto",
   "Oracle",
   "SAP",
   "Salesforce",
+  "IBM",
   "Tata Motors",
   "Maruti Suzuki",
   "Hero MotoCorp",
@@ -104,9 +104,9 @@
   "Bharti Airtel"
  ],
  "by_source": {
-  "company": 166,
-  "adzuna": 553,
-  "jobspy": 41
+  "company": 165,
+  "adzuna": 557,
+  "jobspy": 34
  },
  "errors": []
 }
