@@ -3,6 +3,7 @@
   "Accenture",
   "Aditya Birla Capital",
   "Aditya Birla Group",
+  "Adobe",
   "Amazon",
   "American Express",
   "Asian Paints",
@@ -32,8 +33,11 @@
   "JSW",
   "KPMG",
   "Kotak Mahindra Bank",
+  "LG Electronics",
   "Larsen & Toubro",
+  "Lupin",
   "Mahindra & Mahindra",
+  "Maruti Suzuki",
   "McKinsey & Company",
   "Meesho",
   "Mondelez",
@@ -55,13 +59,13 @@
   "Siemens",
   "Standard Chartered",
   "Swiggy",
-  "Whirlpool"
+  "Whirlpool",
+  "ZS Associates"
  ],
  "missing": [
   "Boston Consulting Group",
   "Kearney",
   "Oliver Wyman",
-  "ZS Associates",
   "Arthur D. Little",
   "ITC",
   "Dabur",
@@ -80,10 +84,8 @@
   "Uber",
   "Nykaa",
   "Zepto",
-  "Adobe",
   "SAP",
   "Tata Motors",
-  "Maruti Suzuki",
   "Hero MotoCorp",
   "Bajaj Auto",
   "TVS Motor",
@@ -96,17 +98,15 @@
   "Titan",
   "Havells",
   "Samsung",
-  "LG Electronics",
   "Cipla",
   "Sun Pharma",
-  "Lupin",
   "Apollo Hospitals",
   "Bharti Airtel"
  ],
  "by_source": {
   "company": 165,
-  "adzuna": 531,
-  "jobspy": 36
+  "adzuna": 544,
+  "jobspy": 66
  },
  "errors": []
 }
