@@ -13,7 +13,6 @@
   "Berger Paints",
   "Bosch",
   "CRED",
-  "Citi",
   "Coca-Cola",
   "Colgate-Palmolive",
   "Cummins",
@@ -41,6 +40,8 @@
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
+  "Nestle India",
+  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -50,6 +51,7 @@
   "Razorpay",
   "Reckitt",
   "Reliance Industries",
+  "Samsung",
   "Schneider Electric",
   "Siemens",
   "Standard Chartered",
@@ -62,7 +64,6 @@
   "Kearney",
   "Oliver Wyman",
   "Arthur D. Little",
-  "Nestle India",
   "ITC",
   "Dabur",
   "Marico",
@@ -71,6 +72,7 @@
   "L'Oreal",
   "HDFC Bank",
   "State Bank of India",
+  "Citi",
   "JPMorgan Chase",
   "ICICI Prudential Life",
   "Flipkart",
@@ -80,7 +82,6 @@
   "Nykaa",
   "Zepto",
   "Adobe",
-  "Oracle",
   "SAP",
   "Salesforce",
   "Cisco",
@@ -96,7 +97,6 @@
   "Pidilite",
   "Titan",
   "Havells",
-  "Samsung",
   "LG Electronics",
   "Cipla",
   "Sun Pharma",
@@ -104,9 +104,9 @@
   "Bharti Airtel"
  ],
  "by_source": {
-  "company": 165,
-  "adzuna": 535,
-  "jobspy": 60
+  "company": 166,
+  "adzuna": 559,
+  "jobspy": 49
  },
  "errors": []
 }
