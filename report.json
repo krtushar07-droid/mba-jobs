@@ -2,7 +2,6 @@
  "found": [
   "Accenture",
   "Aditya Birla Capital",
-  "Aditya Birla Group",
   "Amazon",
   "American Express",
   "Asian Paints",
@@ -34,12 +33,11 @@
   "Larsen & Toubro",
   "Lupin",
   "Mahindra & Mahindra",
-  "Maruti Suzuki",
+  "McKinsey & Company",
   "Meesho",
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
-  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -55,14 +53,14 @@
   "Siemens",
   "Standard Chartered",
   "Swiggy",
-  "Whirlpool"
+  "Uber",
+  "Whirlpool",
+  "ZS Associates"
  ],
  "missing": [
-  "McKinsey & Company",
   "Boston Consulting Group",
   "Kearney",
   "Oliver Wyman",
-  "ZS Associates",
   "Arthur D. Little",
   "Nestle India",
   "ITC",
@@ -79,17 +77,19 @@
   "Microsoft",
   "Zomato",
   "Ola",
-  "Uber",
   "Nykaa",
   "Zepto",
   "Adobe",
+  "Oracle",
   "SAP",
   "Cisco",
   "Tata Motors",
+  "Maruti Suzuki",
   "Hero MotoCorp",
   "Bajaj Auto",
   "TVS Motor",
   "Tata Steel",
+  "Aditya Birla Group",
   "Vedanta",
   "Adani Group",
   "Hindalco",
@@ -105,8 +105,8 @@
  ],
  "by_source": {
   "company": 166,
-  "adzuna": 565,
-  "jobspy": 57
+  "adzuna": 605,
+  "jobspy": 44
  },
  "errors": []
 }
