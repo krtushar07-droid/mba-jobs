@@ -2,18 +2,19 @@
  "found": [
   "Accenture",
   "Aditya Birla Capital",
+  "Aditya Birla Group",
   "Amazon",
   "American Express",
   "Asian Paints",
   "Axis Bank",
-  "Bain & Company",
   "Bajaj Finance",
   "Barclays",
   "Berger Paints",
+  "Bharti Airtel",
   "Bosch",
   "Boston Consulting Group",
   "CRED",
-  "Cisco",
+  "Cipla",
   "Citi",
   "Coca-Cola",
   "Colgate-Palmolive",
@@ -40,6 +41,7 @@
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
+  "Nestle India",
   "Oracle",
   "Paytm",
   "PepsiCo",
@@ -49,21 +51,22 @@
   "PwC",
   "Razorpay",
   "Reckitt",
-  "Reliance Industries",
+  "Salesforce",
   "Samsung",
   "Schneider Electric",
   "Siemens",
   "Standard Chartered",
   "Sun Pharma",
   "Swiggy",
-  "Whirlpool",
-  "ZS Associates"
+  "Tata Steel",
+  "Whirlpool"
  ],
  "missing": [
+  "Bain & Company",
   "Kearney",
   "Oliver Wyman",
+  "ZS Associates",
   "Arthur D. Little",
-  "Nestle India",
   "ITC",
   "Dabur",
   "Marico",
@@ -83,14 +86,13 @@
   "Zepto",
   "Adobe",
   "SAP",
-  "Salesforce",
+  "Cisco",
   "Tata Motors",
   "Maruti Suzuki",
   "Hero MotoCorp",
   "Bajaj Auto",
   "TVS Motor",
-  "Tata Steel",
-  "Aditya Birla Group",
+  "Reliance Industries",
   "Vedanta",
   "Adani Group",
   "Hindalco",
@@ -99,14 +101,14 @@
   "Titan",
   "Havells",
   "LG Electronics",
-  "Cipla",
-  "Apollo Hospitals",
-  "Bharti Airtel"
+  "Apollo Hospitals"
  ],
  "by_source": {
-  "company": 167,
-  "adzuna": 588,
-  "jobspy": 60
+  "company": 171,
+  "adzuna": 581,
+  "jobspy": 44
  },
- "errors": []
+ "errors": [
+  "adzuna failed: Cisco"
+ ]
 }
