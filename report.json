@@ -13,6 +13,7 @@
   "Bharti Airtel",
   "Bosch",
   "CRED",
+  "Cipla",
   "Cisco",
   "Citi",
   "Coca-Cola",
@@ -20,6 +21,7 @@
   "Cummins",
   "Deloitte",
   "Deutsche Bank",
+  "Dr. Reddy's",
   "EY",
   "Flipkart",
   "Goldman Sachs",
@@ -37,9 +39,11 @@
   "Mahindra & Mahindra",
   "McKinsey & Company",
   "Meesho",
+  "Microsoft",
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
+  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -48,7 +52,6 @@
   "PwC",
   "Razorpay",
   "Reckitt",
-  "Salesforce",
   "Samsung",
   "Schneider Electric",
   "Siemens",
@@ -76,14 +79,13 @@
   "State Bank of India",
   "JPMorgan Chase",
   "ICICI Prudential Life",
-  "Microsoft",
   "Zomato",
   "Ola",
   "Uber",
   "Nykaa",
   "Zepto",
-  "Oracle",
   "SAP",
+  "Salesforce",
   "Tata Motors",
   "Maruti Suzuki",
   "Hero MotoCorp",
@@ -99,20 +101,12 @@
   "Titan",
   "Havells",
   "LG Electronics",
-  "Cipla",
-  "Dr. Reddy's",
   "Apollo Hospitals"
  ],
  "by_source": {
-  "company": 171,
-  "adzuna": 556,
-  "jobspy": 56
+  "company": 170,
+  "adzuna": 580,
+  "jobspy": 58
  },
- "errors": [
-  "adzuna failed: Philips",
-  "adzuna failed: Cipla",
-  "adzuna failed: Dr. Reddy's",
-  "adzuna failed: Lupin",
-  "adzuna failed: Apollo Hospitals"
- ]
+ "errors": []
 }
