@@ -11,10 +11,11 @@
   "Bajaj Finance",
   "Barclays",
   "Berger Paints",
+  "Bharti Airtel",
   "Bosch",
+  "Boston Consulting Group",
   "CRED",
   "Cipla",
-  "Citi",
   "Coca-Cola",
   "Colgate-Palmolive",
   "Cummins",
@@ -22,10 +23,10 @@
   "Deutsche Bank",
   "Dr. Reddy's",
   "EY",
-  "Flipkart",
   "Goldman Sachs",
   "Google",
   "HDFC Bank",
+  "HDFC Life",
   "HSBC",
   "Hindustan Unilever",
   "IBM",
@@ -56,14 +57,12 @@
   "Schneider Electric",
   "Siemens",
   "Standard Chartered",
-  "Sun Pharma",
   "Swiggy",
   "Tata Steel",
   "Whirlpool",
   "ZS Associates"
  ],
  "missing": [
-  "Boston Consulting Group",
   "Kearney",
   "Oliver Wyman",
   "Arthur D. Little",
@@ -75,9 +74,10 @@
   "Britannia",
   "L'Oreal",
   "State Bank of India",
+  "Citi",
   "JPMorgan Chase",
-  "HDFC Life",
   "ICICI Prudential Life",
+  "Flipkart",
   "Zomato",
   "Ola",
   "Uber",
@@ -100,13 +100,13 @@
   "Titan",
   "Havells",
   "LG Electronics",
-  "Apollo Hospitals",
-  "Bharti Airtel"
+  "Sun Pharma",
+  "Apollo Hospitals"
  ],
  "by_source": {
-  "company": 170,
-  "adzuna": 545,
-  "jobspy": 51
+  "company": 171,
+  "adzuna": 515,
+  "jobspy": 53
  },
  "errors": []
 }
