@@ -6,7 +6,6 @@
   "Amazon",
   "American Express",
   "Asian Paints",
-  "Axis Bank",
   "Bain & Company",
   "Bajaj Finance",
   "Barclays",
@@ -26,6 +25,7 @@
   "EY",
   "Goldman Sachs",
   "Google",
+  "HDFC Life",
   "HSBC",
   "Havells",
   "IBM",
@@ -40,7 +40,6 @@
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
-  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -49,7 +48,6 @@
   "PwC",
   "Razorpay",
   "Reckitt",
-  "Salesforce",
   "Samsung",
   "Schneider Electric",
   "Siemens",
@@ -72,9 +70,9 @@
   "Britannia",
   "L'Oreal",
   "HDFC Bank",
+  "Axis Bank",
   "State Bank of India",
   "JPMorgan Chase",
-  "HDFC Life",
   "ICICI Prudential Life",
   "Flipkart",
   "Microsoft",
@@ -84,7 +82,9 @@
   "Nykaa",
   "Zepto",
   "Adobe",
+  "Oracle",
   "SAP",
+  "Salesforce",
   "Tata Motors",
   "Maruti Suzuki",
   "Hero MotoCorp",
@@ -104,9 +104,9 @@
   "Apollo Hospitals"
  ],
  "by_source": {
-  "company": 168,
-  "adzuna": 515,
-  "jobspy": 44
+  "company": 170,
+  "adzuna": 525,
+  "jobspy": 50
  },
  "errors": []
 }
