@@ -9,11 +9,11 @@
   "Bain & Company",
   "Bajaj Finance",
   "Barclays",
+  "Bharti Airtel",
   "Bosch",
   "Boston Consulting Group",
   "CRED",
   "Cipla",
-  "Cisco",
   "Citi",
   "Coca-Cola",
   "Colgate-Palmolive",
@@ -24,6 +24,7 @@
   "EY",
   "Goldman Sachs",
   "Google",
+  "HDFC Life",
   "HSBC",
   "Havells",
   "Hindustan Unilever",
@@ -34,7 +35,6 @@
   "KPMG",
   "Kotak Mahindra Bank",
   "Larsen & Toubro",
-  "Lupin",
   "Mahindra & Mahindra",
   "Maruti Suzuki",
   "McKinsey & Company",
@@ -42,6 +42,7 @@
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
+  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -50,6 +51,7 @@
   "PwC",
   "Razorpay",
   "Reckitt",
+  "Salesforce",
   "Schneider Electric",
   "Siemens",
   "Standard Chartered",
@@ -71,7 +73,6 @@
   "HDFC Bank",
   "Axis Bank",
   "State Bank of India",
-  "HDFC Life",
   "ICICI Prudential Life",
   "Flipkart",
   "Microsoft",
@@ -81,9 +82,8 @@
   "Nykaa",
   "Zepto",
   "Adobe",
-  "Oracle",
   "SAP",
-  "Salesforce",
+  "Cisco",
   "Tata Motors",
   "Hero MotoCorp",
   "Bajaj Auto",
@@ -100,13 +100,17 @@
   "Samsung",
   "LG Electronics",
   "Sun Pharma",
-  "Apollo Hospitals",
-  "Bharti Airtel"
+  "Lupin",
+  "Apollo Hospitals"
  ],
  "by_source": {
-  "company": 168,
-  "adzuna": 525,
-  "jobspy": 48
+  "company": 167,
+  "adzuna": 487,
+  "jobspy": 52
  },
- "errors": []
+ "errors": [
+  "adzuna failed: Lupin",
+  "adzuna failed: Apollo Hospitals",
+  "adzuna failed: Bharti Airtel"
+ ]
 }
