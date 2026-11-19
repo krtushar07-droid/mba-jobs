@@ -14,6 +14,7 @@
   "Boston Consulting Group",
   "CRED",
   "Cipla",
+  "Cisco",
   "Citi",
   "Coca-Cola",
   "Colgate-Palmolive",
@@ -24,7 +25,6 @@
   "EY",
   "Goldman Sachs",
   "Google",
-  "HDFC Life",
   "HSBC",
   "Havells",
   "Hindustan Unilever",
@@ -35,6 +35,7 @@
   "KPMG",
   "Kotak Mahindra Bank",
   "Larsen & Toubro",
+  "Lupin",
   "Mahindra & Mahindra",
   "Maruti Suzuki",
   "McKinsey & Company",
@@ -73,6 +74,7 @@
   "HDFC Bank",
   "Axis Bank",
   "State Bank of India",
+  "HDFC Life",
   "ICICI Prudential Life",
   "Flipkart",
   "Microsoft",
@@ -83,7 +85,6 @@
   "Zepto",
   "Adobe",
   "SAP",
-  "Cisco",
   "Tata Motors",
   "Hero MotoCorp",
   "Bajaj Auto",
@@ -100,17 +101,12 @@
   "Samsung",
   "LG Electronics",
   "Sun Pharma",
-  "Lupin",
   "Apollo Hospitals"
  ],
  "by_source": {
-  "company": 167,
-  "adzuna": 487,
-  "jobspy": 52
+  "company": 165,
+  "adzuna": 529,
+  "jobspy": 49
  },
- "errors": [
-  "adzuna failed: Lupin",
-  "adzuna failed: Apollo Hospitals",
-  "adzuna failed: Bharti Airtel"
- ]
+ "errors": []
 }
