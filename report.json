@@ -6,7 +6,6 @@
   "Amazon",
   "American Express",
   "Asian Paints",
-  "Bain & Company",
   "Bajaj Finance",
   "Barclays",
   "Berger Paints",
@@ -24,6 +23,7 @@
   "Dr. Reddy's",
   "EY",
   "Goldman Sachs",
+  "Google",
   "HDFC Life",
   "HSBC",
   "Havells",
@@ -32,7 +32,6 @@
   "ICICI Bank",
   "KPMG",
   "Kotak Mahindra Bank",
-  "L'Oreal",
   "Larsen & Toubro",
   "Lupin",
   "Mahindra & Mahindra",
@@ -41,7 +40,6 @@
   "Mondelez",
   "Morgan Stanley",
   "Myntra",
-  "Oracle",
   "Paytm",
   "PepsiCo",
   "Philips",
@@ -58,6 +56,7 @@
   "Whirlpool"
  ],
  "missing": [
+  "Bain & Company",
   "Kearney",
   "Oliver Wyman",
   "ZS Associates",
@@ -68,13 +67,13 @@
   "Marico",
   "Godrej Consumer Products",
   "Britannia",
+  "L'Oreal",
   "HDFC Bank",
   "Axis Bank",
   "State Bank of India",
   "JPMorgan Chase",
   "ICICI Prudential Life",
   "Flipkart",
-  "Google",
   "Microsoft",
   "Zomato",
   "Ola",
@@ -82,6 +81,7 @@
   "Nykaa",
   "Zepto",
   "Adobe",
+  "Oracle",
   "SAP",
   "Salesforce",
   "Tata Motors",
@@ -104,9 +104,9 @@
   "Bharti Airtel"
  ],
  "by_source": {
-  "company": 168,
-  "adzuna": 515,
-  "jobspy": 83
+  "company": 170,
+  "adzuna": 507,
+  "jobspy": 78
  },
  "errors": []
 }
